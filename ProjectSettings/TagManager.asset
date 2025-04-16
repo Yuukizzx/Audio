@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - IgnoreEnemies
+  - Bullet
+  - EnemyBullet
+  - map
+  - wall
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: New Layer 1
+    uniqueID: 1568145245
+    locked: 0
+  - name: Enemy
+    uniqueID: 3681765917
+    locked: 0
+  - name: Player
+    uniqueID: 3866831845
+    locked: 0
+  - name: New Layer 4
+    uniqueID: 2869781977
+    locked: 0
+  - name: New Layer 5
+    uniqueID: 245930077
+    locked: 0

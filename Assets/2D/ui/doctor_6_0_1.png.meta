@@ -1,0 +1,764 @@
+fileFormatVersion: 2
+guid: fc15c42cbbb7cac488466b9ae66ac6dd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2637161897093537320
+    second: doctor_6_0_1_0
+  - first:
+      213: 1962882673033190849
+    second: doctor_6_0_1_1
+  - first:
+      213: 2782762180458753791
+    second: doctor_6_0_1_2
+  - first:
+      213: -9085117578775614202
+    second: doctor_6_0_1_3
+  - first:
+      213: -6212100648140783121
+    second: doctor_6_0_1_4
+  - first:
+      213: -612024264154135055
+    second: doctor_6_0_1_5
+  - first:
+      213: 8212791884904420657
+    second: doctor_6_0_1_6
+  - first:
+      213: 7830333259375182132
+    second: doctor_6_0_1_7
+  - first:
+      213: -6435078035256733025
+    second: doctor_6_0_1_8
+  - first:
+      213: 7724700352001116509
+    second: doctor_6_0_1_9
+  - first:
+      213: 4893850294358900861
+    second: doctor_6_0_1_10
+  - first:
+      213: 4596437077728987858
+    second: doctor_6_0_1_11
+  - first:
+      213: 3851044079589218551
+    second: doctor_6_0_1_12
+  - first:
+      213: 5643758002892414313
+    second: doctor_6_0_1_13
+  - first:
+      213: 6500322439457747442
+    second: doctor_6_0_1_14
+  - first:
+      213: -7067263438029583910
+    second: doctor_6_0_1_15
+  - first:
+      213: 8598485703189649050
+    second: doctor_6_0_1_16
+  - first:
+      213: -6137076984986023789
+    second: doctor_6_0_1_17
+  - first:
+      213: 5893881950416424719
+    second: doctor_6_0_1_18
+  - first:
+      213: 6023553059728029861
+    second: doctor_6_0_1_19
+  - first:
+      213: 6567098983844626071
+    second: doctor_6_0_1_20
+  - first:
+      213: -3386964322483683557
+    second: doctor_6_0_1_21
+  - first:
+      213: 4834872870153438563
+    second: doctor_6_0_1_22
+  - first:
+      213: -8532608928972434179
+    second: doctor_6_0_1_23
+  - first:
+      213: -9182440059674659414
+    second: doctor_6_0_1_24
+  - first:
+      213: -3358096026267268349
+    second: doctor_6_0_1_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: doctor_6_0_1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 292
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82e947be5c4199420800000000000000
+      internalID: 2637161897093537320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctor_6_0_1_1
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 292
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cd99ed246f8d3b10800000000000000
+      internalID: 1962882673033190849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctor_6_0_1_2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 292
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffea2ac957b5e9620800000000000000
+      internalID: 2782762180458753791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctor_6_0_1_3
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 292
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60d2c6672bd2be180800000000000000
+      internalID: -9085117578775614202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctor_6_0_1_4
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 292
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe14896af5f2ac9a0800000000000000
+      internalID: -6212100648140783121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctor_6_0_1_5
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 292
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f54c25ac27a187f0800000000000000
+      internalID: -612024264154135055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctor_6_0_1_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 219
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13550f1c4b2b9f170800000000000000
+      internalID: 8212791884904420657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctor_6_0_1_7
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 219
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4310cfdcc9eeaac60800000000000000
+      internalID: 7830333259375182132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctor_6_0_1_8
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 219
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f929a961f9202b6a0800000000000000
+      internalID: -6435078035256733025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctor_6_0_1_9
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 219
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d598c5dfa06a33b60800000000000000
+      internalID: 7724700352001116509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctor_6_0_1_10
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 219
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d70043bf9e27ae340800000000000000
+      internalID: 4893850294358900861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctor_6_0_1_11
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 219
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2da88725b23d9cf30800000000000000
+      internalID: 4596437077728987858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctor_6_0_1_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 146
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f8594acf28a17530800000000000000
+      internalID: 3851044079589218551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctor_6_0_1_13
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 146
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96d9ba07008a25e40800000000000000
+      internalID: 5643758002892414313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctor_6_0_1_14
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 146
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f1316981d8c53a50800000000000000
+      internalID: 6500322439457747442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctor_6_0_1_15
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 146
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad9042ad8590ced90800000000000000
+      internalID: -7067263438029583910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctor_6_0_1_16
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 146
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a96d4e8b035f35770800000000000000
+      internalID: 8598485703189649050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctor_6_0_1_17
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 146
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 398ceae6ff8b4daa0800000000000000
+      internalID: -6137076984986023789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctor_6_0_1_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 73
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0f48a228664bc150800000000000000
+      internalID: 5893881950416424719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctor_6_0_1_19
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 73
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a87ecaf795f79350800000000000000
+      internalID: 6023553059728029861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctor_6_0_1_20
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 73
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79e33e85bb5032b50800000000000000
+      internalID: 6567098983844626071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctor_6_0_1_21
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 73
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1f3073c4e51ff0d0800000000000000
+      internalID: -3386964322483683557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctor_6_0_1_22
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 73
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3654ba7524be81340800000000000000
+      internalID: 4834872870153438563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctor_6_0_1_23
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 73
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df495450365169980800000000000000
+      internalID: -8532608928972434179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctor_6_0_1_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa576c79a6b619080800000000000000
+      internalID: -9182440059674659414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctor_6_0_1_25
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 0
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30b40b0c475a561d0800000000000000
+      internalID: -3358096026267268349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: aa7c62c7f72585d498f2e4f1e9d7b91b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      doctor_6_0_1_0: 2637161897093537320
+      doctor_6_0_1_1: 1962882673033190849
+      doctor_6_0_1_10: 4893850294358900861
+      doctor_6_0_1_11: 4596437077728987858
+      doctor_6_0_1_12: 3851044079589218551
+      doctor_6_0_1_13: 5643758002892414313
+      doctor_6_0_1_14: 6500322439457747442
+      doctor_6_0_1_15: -7067263438029583910
+      doctor_6_0_1_16: 8598485703189649050
+      doctor_6_0_1_17: -6137076984986023789
+      doctor_6_0_1_18: 5893881950416424719
+      doctor_6_0_1_19: 6023553059728029861
+      doctor_6_0_1_2: 2782762180458753791
+      doctor_6_0_1_20: 6567098983844626071
+      doctor_6_0_1_21: -3386964322483683557
+      doctor_6_0_1_22: 4834872870153438563
+      doctor_6_0_1_23: -8532608928972434179
+      doctor_6_0_1_24: -9182440059674659414
+      doctor_6_0_1_25: -3358096026267268349
+      doctor_6_0_1_3: -9085117578775614202
+      doctor_6_0_1_4: -6212100648140783121
+      doctor_6_0_1_5: -612024264154135055
+      doctor_6_0_1_6: 8212791884904420657
+      doctor_6_0_1_7: 7830333259375182132
+      doctor_6_0_1_8: -6435078035256733025
+      doctor_6_0_1_9: 7724700352001116509
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

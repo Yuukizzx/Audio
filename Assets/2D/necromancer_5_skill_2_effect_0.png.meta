@@ -1,0 +1,792 @@
+fileFormatVersion: 2
+guid: 54d3feb213a8fe44d8f22c82e43ac8c9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2361921900753524618
+    second: necromancer_5_skill_2_effect_0_0
+  - first:
+      213: 3654236884215375380
+    second: necromancer_5_skill_2_effect_0_1
+  - first:
+      213: -4076218710739954837
+    second: necromancer_5_skill_2_effect_0_2
+  - first:
+      213: 7193975998860506486
+    second: necromancer_5_skill_2_effect_0_3
+  - first:
+      213: 3019591131232564695
+    second: necromancer_5_skill_2_effect_0_4
+  - first:
+      213: 676032412303031545
+    second: necromancer_5_skill_2_effect_0_5
+  - first:
+      213: -6299066645588295768
+    second: necromancer_5_skill_2_effect_0_6
+  - first:
+      213: 1181010344362780248
+    second: necromancer_5_skill_2_effect_0_7
+  - first:
+      213: 4350320882268331527
+    second: necromancer_5_skill_2_effect_0_8
+  - first:
+      213: 2685245747905950195
+    second: necromancer_5_skill_2_effect_0_9
+  - first:
+      213: 2041162001818527715
+    second: necromancer_5_skill_2_effect_0_10
+  - first:
+      213: -1011547941799190508
+    second: necromancer_5_skill_2_effect_0_11
+  - first:
+      213: 8547132661251731731
+    second: necromancer_5_skill_2_effect_0_12
+  - first:
+      213: -8547218419056371538
+    second: necromancer_5_skill_2_effect_0_13
+  - first:
+      213: -2910237699600300736
+    second: necromancer_5_skill_2_effect_0_14
+  - first:
+      213: -2678899659287011873
+    second: necromancer_5_skill_2_effect_0_15
+  - first:
+      213: -5006809828792406013
+    second: necromancer_5_skill_2_effect_0_16
+  - first:
+      213: -7093623450696667581
+    second: necromancer_5_skill_2_effect_0_17
+  - first:
+      213: -3857987454954039303
+    second: necromancer_5_skill_2_effect_0_18
+  - first:
+      213: 8606649779203664091
+    second: necromancer_5_skill_2_effect_0_19
+  - first:
+      213: -4789952960196145716
+    second: necromancer_5_skill_2_effect_0_20
+  - first:
+      213: 3014137618866309853
+    second: necromancer_5_skill_2_effect_0_21
+  - first:
+      213: -97971406979370321
+    second: necromancer_5_skill_2_effect_0_22
+  - first:
+      213: -7776460976964735053
+    second: necromancer_5_skill_2_effect_0_23
+  - first:
+      213: -3608370507392071687
+    second: necromancer_5_skill_2_effect_0_24
+  - first:
+      213: -8267526031311100268
+    second: necromancer_5_skill_2_effect_0_25
+  - first:
+      213: -8481154296431485895
+    second: necromancer_5_skill_2_effect_0_26
+  - first:
+      213: -2581041098335562310
+    second: necromancer_5_skill_2_effect_0_27
+  - first:
+      213: 6681371604667219036
+    second: necromancer_5_skill_2_effect_0_28
+  - first:
+      213: 1840217132857999961
+    second: necromancer_5_skill_2_effect_0_29
+  - first:
+      213: 6331399163532276570
+    second: necromancer_5_skill_2_effect_0_30
+  - first:
+      213: 7761613760621551810
+    second: necromancer_5_skill_2_effect_0_31
+  - first:
+      213: -180424306730367961
+    second: necromancer_5_skill_2_effect_0_32
+  - first:
+      213: -8945870940209313873
+    second: necromancer_5_skill_2_effect_0_33
+  - first:
+      213: 2950651567202352315
+    second: necromancer_5_skill_2_effect_0_34
+  - first:
+      213: -1401091727259533682
+    second: necromancer_5_skill_2_effect_0_35
+  - first:
+      213: 4621735086971202633
+    second: necromancer_5_skill_2_effect_0_36
+  - first:
+      213: -7936897664063327832
+    second: necromancer_5_skill_2_effect_0_37
+  - first:
+      213: -1008231721999601365
+    second: necromancer_5_skill_2_effect_0_38
+  - first:
+      213: -126431682018224596
+    second: necromancer_5_skill_2_effect_0_39
+  - first:
+      213: 5241466706588251823
+    second: necromancer_5_skill_2_effect_0_40
+  - first:
+      213: -7170720240634671330
+    second: necromancer_5_skill_2_effect_0_41
+  - first:
+      213: -2395402143190429363
+    second: necromancer_5_skill_2_effect_0_42
+  - first:
+      213: -3817166763311027013
+    second: necromancer_5_skill_2_effect_0_43
+  - first:
+      213: -8596964002250613895
+    second: necromancer_5_skill_2_effect_0_44
+  - first:
+      213: -6933524577317987660
+    second: necromancer_5_skill_2_effect_0_45
+  - first:
+      213: -2143288794834264292
+    second: necromancer_5_skill_2_effect_0_46
+  - first:
+      213: 3507908027190468318
+    second: necromancer_5_skill_2_effect_0_47
+  - first:
+      213: -7393463448505371931
+    second: necromancer_5_skill_2_effect_0_48
+  - first:
+      213: -1052009679395087157
+    second: necromancer_5_skill_2_effect_0_49
+  - first:
+      213: 3263397300653328995
+    second: necromancer_5_skill_2_effect_0_50
+  - first:
+      213: -3937779022519325054
+    second: necromancer_5_skill_2_effect_0_51
+  - first:
+      213: 3138517223984353775
+    second: necromancer_5_skill_2_effect_0_52
+  - first:
+      213: 6466625669874983492
+    second: necromancer_5_skill_2_effect_0_53
+  - first:
+      213: -6915897283963112469
+    second: necromancer_5_skill_2_effect_0_54
+  - first:
+      213: 2935493421955330011
+    second: necromancer_5_skill_2_effect_0_55
+  - first:
+      213: 6455452838743103367
+    second: necromancer_5_skill_2_effect_0_56
+  - first:
+      213: -1578909333063074907
+    second: necromancer_5_skill_2_effect_0_57
+  - first:
+      213: 5869334140311765797
+    second: necromancer_5_skill_2_effect_0_58
+  - first:
+      213: -7742724257269045749
+    second: necromancer_5_skill_2_effect_0_59
+  - first:
+      213: -4504867099540095020
+    second: necromancer_5_skill_2_effect_0_60
+  - first:
+      213: 7368404392204557706
+    second: necromancer_5_skill_2_effect_0_61
+  - first:
+      213: -7813739177097105484
+    second: necromancer_5_skill_2_effect_0_62
+  - first:
+      213: 8425597334569335746
+    second: necromancer_5_skill_2_effect_0_63
+  - first:
+      213: 2876306060132894314
+    second: necromancer_5_skill_2_effect_0_64
+  - first:
+      213: 5779568982966873560
+    second: necromancer_5_skill_2_effect_0_65
+  - first:
+      213: 2180148396276943594
+    second: necromancer_5_skill_2_effect_0_66
+  - first:
+      213: -3612399435780606823
+    second: necromancer_5_skill_2_effect_0_67
+  - first:
+      213: -3366247869702852017
+    second: necromancer_5_skill_2_effect_0_68
+  - first:
+      213: 7728634132353758132
+    second: necromancer_5_skill_2_effect_0_69
+  - first:
+      213: -6016749276557893159
+    second: necromancer_5_skill_2_effect_0_70
+  - first:
+      213: 5318487919992203644
+    second: necromancer_5_skill_2_effect_0_71
+  - first:
+      213: -5879796125454457420
+    second: necromancer_5_skill_2_effect_0_72
+  - first:
+      213: 1116418335477320897
+    second: necromancer_5_skill_2_effect_0_73
+  - first:
+      213: 7324746853090818114
+    second: necromancer_5_skill_2_effect_0_74
+  - first:
+      213: -6543083445134055044
+    second: necromancer_5_skill_2_effect_0_75
+  - first:
+      213: 2764857372220917578
+    second: necromancer_5_skill_2_effect_0_76
+  - first:
+      213: 581560303381825271
+    second: necromancer_5_skill_2_effect_0_77
+  - first:
+      213: -7891696573174322191
+    second: necromancer_5_skill_2_effect_0_78
+  - first:
+      213: -2514810365836499053
+    second: necromancer_5_skill_2_effect_0_79
+  - first:
+      213: 3753892946932458543
+    second: necromancer_5_skill_2_effect_0_80
+  - first:
+      213: 3417076118727830483
+    second: necromancer_5_skill_2_effect_0_81
+  - first:
+      213: 2333071586845462863
+    second: necromancer_5_skill_2_effect_0_82
+  - first:
+      213: 279230507896627072
+    second: necromancer_5_skill_2_effect_0_83
+  - first:
+      213: 6755729213296497383
+    second: necromancer_5_skill_2_effect_0_84
+  - first:
+      213: 698429845716996593
+    second: necromancer_5_skill_2_effect_0_85
+  - first:
+      213: -7462934811651263095
+    second: necromancer_5_skill_2_effect_0_86
+  - first:
+      213: 6288979503768187974
+    second: necromancer_5_skill_2_effect_0_87
+  - first:
+      213: 5832003074632557908
+    second: necromancer_5_skill_2_effect_0_88
+  - first:
+      213: 5305885413906953373
+    second: necromancer_5_skill_2_effect_0_89
+  - first:
+      213: -4237688882587014876
+    second: necromancer_5_skill_2_effect_0_90
+  - first:
+      213: -4295400524583605274
+    second: necromancer_5_skill_2_effect_0_91
+  - first:
+      213: -2223269112706171192
+    second: necromancer_5_skill_2_effect_0_92
+  - first:
+      213: -9073441997399853904
+    second: necromancer_5_skill_2_effect_0_93
+  - first:
+      213: -6403373132869150897
+    second: necromancer_5_skill_2_effect_0_94
+  - first:
+      213: -3401737481127709241
+    second: necromancer_5_skill_2_effect_0_95
+  - first:
+      213: 5848363787127885152
+    second: necromancer_5_skill_2_effect_0_96
+  - first:
+      213: 5395602800881318633
+    second: necromancer_5_skill_2_effect_0_97
+  - first:
+      213: -234601659628499036
+    second: necromancer_5_skill_2_effect_0_98
+  - first:
+      213: -3158997527783084782
+    second: necromancer_5_skill_2_effect_0_99
+  - first:
+      213: -2901057332007132976
+    second: necromancer_5_skill_2_effect_0_100
+  - first:
+      213: -2064428121378944669
+    second: necromancer_5_skill_2_effect_0_101
+  - first:
+      213: 8605407511948354453
+    second: necromancer_5_skill_2_effect_0_102
+  - first:
+      213: -2757413847873449351
+    second: necromancer_5_skill_2_effect_0_103
+  - first:
+      213: -2840899065853508291
+    second: necromancer_5_skill_2_effect_0_104
+  - first:
+      213: 8853741941583159902
+    second: necromancer_5_skill_2_effect_0_105
+  - first:
+      213: 4729450376569259965
+    second: necromancer_5_skill_2_effect_0_106
+  - first:
+      213: 237664621073015430
+    second: necromancer_5_skill_2_effect_0_107
+  - first:
+      213: 4202854619692966726
+    second: necromancer_5_skill_2_effect_0_108
+  - first:
+      213: 7191611147966037582
+    second: necromancer_5_skill_2_effect_0_109
+  - first:
+      213: 2879367119741145049
+    second: necromancer_5_skill_2_effect_0_110
+  - first:
+      213: 7421512419402375831
+    second: necromancer_5_skill_2_effect_0_111
+  - first:
+      213: 2241056960116090188
+    second: necromancer_5_skill_2_effect_0_112
+  - first:
+      213: 7078305981877801166
+    second: necromancer_5_skill_2_effect_0_113
+  - first:
+      213: 1628457661095408806
+    second: necromancer_5_skill_2_effect_0_114
+  - first:
+      213: 8559554862694309929
+    second: necromancer_5_skill_2_effect_0_115
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: necromancer_5_skill_2_effect_0_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 104
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad5eb70ce37b6f7458a0d30356d819d4
+      internalID: 1279993216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: necromancer_5_skill_2_effect_0_1
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 336
+        width: 104
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94757a44e3a7b694f99183fd6ea59e56
+      internalID: 1222236086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: necromancer_5_skill_2_effect_0_2
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 336
+        width: 104
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e6acc432c9f01547ba3cf89c822ec02
+      internalID: -564788896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: necromancer_5_skill_2_effect_0_3
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 336
+        width: 104
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f2d36bc9378994786815803126b0bc
+      internalID: 1698357113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: necromancer_5_skill_2_effect_0_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 104
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 861095e46399a1448abd3964201fab87
+      internalID: -1662393996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: necromancer_5_skill_2_effect_0_5
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 224
+        width: 104
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb139f73b98b0847b62bdf4c05d756a
+      internalID: 492939302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: necromancer_5_skill_2_effect_0_6
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 224
+        width: 104
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 825d3c4f516d871459f121d730f3107d
+      internalID: 236044927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: necromancer_5_skill_2_effect_0_7
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 224
+        width: 104
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2397ff77c60a8d149aed1674d4e07948
+      internalID: 1738019990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: necromancer_5_skill_2_effect_0_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 104
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca38309139dea5428c8608ac1414ad0
+      internalID: -2121732531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: necromancer_5_skill_2_effect_0_9
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 112
+        width: 104
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8bd9863126ba684485885c4f18fa323
+      internalID: -1370120584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: necromancer_5_skill_2_effect_0_10
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 112
+        width: 104
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a31ba9aed470a245a6425f55c754f3a
+      internalID: 387265044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: necromancer_5_skill_2_effect_0_11
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 112
+        width: 104
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac1a7299ef77ead438f74ae06cddf5bf
+      internalID: -998647931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: necromancer_5_skill_2_effect_0_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 104
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 363f07bfbaf3dca45b340531a8290b7c
+      internalID: -1272767745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: necromancer_5_skill_2_effect_0_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 0
+        width: 104
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc795c9466e5b54d85c9391180462a6
+      internalID: -475546253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: necromancer_5_skill_2_effect_0_14
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 0
+        width: 104
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f22ac2b2e154dce44bdf8a8315b076f2
+      internalID: -167854376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 9d1c2accd5a614e469c9ea3ef89fe1f6
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      necromancer_5_skill_2_effect_0_0: 1279993216
+      necromancer_5_skill_2_effect_0_1: 1222236086
+      necromancer_5_skill_2_effect_0_10: 387265044
+      necromancer_5_skill_2_effect_0_11: -998647931
+      necromancer_5_skill_2_effect_0_12: -1272767745
+      necromancer_5_skill_2_effect_0_13: -475546253
+      necromancer_5_skill_2_effect_0_14: -167854376
+      necromancer_5_skill_2_effect_0_2: -564788896
+      necromancer_5_skill_2_effect_0_3: 1698357113
+      necromancer_5_skill_2_effect_0_4: -1662393996
+      necromancer_5_skill_2_effect_0_5: 492939302
+      necromancer_5_skill_2_effect_0_6: 236044927
+      necromancer_5_skill_2_effect_0_7: 1738019990
+      necromancer_5_skill_2_effect_0_8: -2121732531
+      necromancer_5_skill_2_effect_0_9: -1370120584
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

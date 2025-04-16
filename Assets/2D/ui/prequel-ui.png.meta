@@ -1,0 +1,2389 @@
+fileFormatVersion: 2
+guid: ed93fa064a490b149a41e0ae69e8f2e7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3605408771382701453
+    second: prequel-ui_0
+  - first:
+      213: 5125874654058314249
+    second: prequel-ui_1
+  - first:
+      213: -7751148599096669983
+    second: prequel-ui_2
+  - first:
+      213: 825415709368872163
+    second: prequel-ui_3
+  - first:
+      213: 4733745840825345257
+    second: prequel-ui_4
+  - first:
+      213: 2155989861331111723
+    second: prequel-ui_5
+  - first:
+      213: 3636444273757828001
+    second: prequel-ui_6
+  - first:
+      213: 3674534513384530853
+    second: prequel-ui_7
+  - first:
+      213: -7625992378860071215
+    second: prequel-ui_8
+  - first:
+      213: 3574224469087010634
+    second: prequel-ui_9
+  - first:
+      213: 3268442690606123158
+    second: prequel-ui_10
+  - first:
+      213: -4286371030184424708
+    second: prequel-ui_11
+  - first:
+      213: 5422962035906003440
+    second: prequel-ui_12
+  - first:
+      213: 7544418639210783164
+    second: prequel-ui_13
+  - first:
+      213: -2679995479647030607
+    second: prequel-ui_14
+  - first:
+      213: -2473361204768083609
+    second: prequel-ui_15
+  - first:
+      213: 3190512093585791094
+    second: prequel-ui_16
+  - first:
+      213: -4313136091545463868
+    second: prequel-ui_17
+  - first:
+      213: 7847397894883579092
+    second: prequel-ui_18
+  - first:
+      213: -1403123525341897764
+    second: prequel-ui_19
+  - first:
+      213: 2062350834483403657
+    second: prequel-ui_20
+  - first:
+      213: 5000716477731443010
+    second: prequel-ui_21
+  - first:
+      213: 3868688480939553208
+    second: prequel-ui_22
+  - first:
+      213: 3874420502188441902
+    second: prequel-ui_23
+  - first:
+      213: 7714472273001884458
+    second: prequel-ui_24
+  - first:
+      213: -5697412890361403448
+    second: prequel-ui_25
+  - first:
+      213: 4462732667526151575
+    second: prequel-ui_26
+  - first:
+      213: 2421392217426221520
+    second: prequel-ui_27
+  - first:
+      213: -8987260459048592995
+    second: prequel-ui_28
+  - first:
+      213: -1623821171702517939
+    second: prequel-ui_29
+  - first:
+      213: 4288057015470708945
+    second: prequel-ui_30
+  - first:
+      213: 1388994041120134500
+    second: prequel-ui_31
+  - first:
+      213: 3641195346288907922
+    second: prequel-ui_32
+  - first:
+      213: -5908659015000941616
+    second: prequel-ui_33
+  - first:
+      213: 7521519097812866576
+    second: prequel-ui_34
+  - first:
+      213: -7780989441896868929
+    second: prequel-ui_35
+  - first:
+      213: -7535081353345062763
+    second: prequel-ui_36
+  - first:
+      213: 3419151935218477258
+    second: prequel-ui_37
+  - first:
+      213: 4121073899361928579
+    second: prequel-ui_38
+  - first:
+      213: 7286001089638524798
+    second: prequel-ui_39
+  - first:
+      213: -3481058933635216837
+    second: prequel-ui_40
+  - first:
+      213: 4484584250683674385
+    second: prequel-ui_41
+  - first:
+      213: 1609565700504660906
+    second: prequel-ui_42
+  - first:
+      213: -403846699719866417
+    second: prequel-ui_43
+  - first:
+      213: -6477015294644190185
+    second: prequel-ui_44
+  - first:
+      213: -6885346512527339516
+    second: prequel-ui_45
+  - first:
+      213: 7774243086139301974
+    second: prequel-ui_46
+  - first:
+      213: -3088102601098886969
+    second: prequel-ui_47
+  - first:
+      213: 4677088986223115782
+    second: prequel-ui_48
+  - first:
+      213: -3160014727715907630
+    second: prequel-ui_49
+  - first:
+      213: 5451732354337325326
+    second: prequel-ui_50
+  - first:
+      213: 749259132417989072
+    second: prequel-ui_51
+  - first:
+      213: 8531960729092764368
+    second: prequel-ui_52
+  - first:
+      213: -2914212327106700290
+    second: prequel-ui_53
+  - first:
+      213: -8065986050769114995
+    second: prequel-ui_54
+  - first:
+      213: 989174737214325287
+    second: prequel-ui_55
+  - first:
+      213: 4971512502527042950
+    second: prequel-ui_56
+  - first:
+      213: 151792242636133706
+    second: prequel-ui_57
+  - first:
+      213: -2649144951163758009
+    second: prequel-ui_58
+  - first:
+      213: 5026955453214982216
+    second: prequel-ui_59
+  - first:
+      213: 7159124009429471563
+    second: prequel-ui_60
+  - first:
+      213: -4009357912320854381
+    second: prequel-ui_61
+  - first:
+      213: -5148120851835737773
+    second: prequel-ui_62
+  - first:
+      213: -1804988510522384331
+    second: prequel-ui_63
+  - first:
+      213: -2751203238091580423
+    second: prequel-ui_64
+  - first:
+      213: -4322860420295037682
+    second: prequel-ui_65
+  - first:
+      213: -3307637212767642709
+    second: prequel-ui_66
+  - first:
+      213: 8339680988769571307
+    second: prequel-ui_67
+  - first:
+      213: 6743179591599021804
+    second: prequel-ui_68
+  - first:
+      213: 4180078547884594342
+    second: prequel-ui_69
+  - first:
+      213: -5185110032987993164
+    second: prequel-ui_70
+  - first:
+      213: -5904532798656083365
+    second: prequel-ui_71
+  - first:
+      213: 7333368475935833155
+    second: prequel-ui_72
+  - first:
+      213: 7564507454588656463
+    second: prequel-ui_73
+  - first:
+      213: 6497454953891036649
+    second: prequel-ui_74
+  - first:
+      213: -5428171861982069069
+    second: prequel-ui_75
+  - first:
+      213: 2460855608770512123
+    second: prequel-ui_76
+  - first:
+      213: -3640800160695422660
+    second: prequel-ui_77
+  - first:
+      213: -3197657417917972160
+    second: prequel-ui_78
+  - first:
+      213: 3745856504158336253
+    second: prequel-ui_79
+  - first:
+      213: -4911007793794392762
+    second: prequel-ui_80
+  - first:
+      213: 8551260880907753074
+    second: prequel-ui_81
+  - first:
+      213: 6733884590955028771
+    second: prequel-ui_82
+  - first:
+      213: 8205919109424216089
+    second: prequel-ui_83
+  - first:
+      213: -7978914950029586011
+    second: prequel-ui_84
+  - first:
+      213: 5637500660007967051
+    second: prequel-ui_85
+  - first:
+      213: 6056636352285187301
+    second: prequel-ui_86
+  - first:
+      213: -9129931150312907341
+    second: prequel-ui_87
+  - first:
+      213: -1319636950895983811
+    second: prequel-ui_88
+  - first:
+      213: 1622596326847119138
+    second: prequel-ui_89
+  - first:
+      213: -1481291222299549819
+    second: prequel-ui_90
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 48
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: prequel-ui_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 472
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37218af13d307fdc0800000000000000
+      internalID: -3605408771382701453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prequel-ui_1
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 469
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90af25ef6d3c22740800000000000000
+      internalID: 5125874654058314249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prequel-ui_2
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 444
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e8839d9a636e6490800000000000000
+      internalID: -7751148599096669983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prequel-ui_3
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 459
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ec65f4e637747b00800000000000000
+      internalID: 825415709368872163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prequel-ui_4
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 479
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e4a06303c4a1b140800000000000000
+      internalID: 4733745840825345257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prequel-ui_5
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 479
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2f0cff1b5d9bed10800000000000000
+      internalID: 2155989861331111723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prequel-ui_6
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 475
+        width: 44
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a3b6dedcce377230800000000000000
+      internalID: 3636444273757828001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prequel-ui_7
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 469
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a3a231eba19ef230800000000000000
+      internalID: 3674534513384530853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prequel-ui_8
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 475
+        width: 78
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d6953ee5580b2690800000000000000
+      internalID: -7625992378860071215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prequel-ui_9
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 439
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4fb073b7323a9130800000000000000
+      internalID: 3574224469087010634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prequel-ui_10
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 443
+        width: 118
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 8, y: 7, z: 8, w: 6}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 698cc466f47db5d20800000000000000
+      internalID: 3268442690606123158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prequel-ui_11
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 461
+        width: 69
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfa055a1240c384c0800000000000000
+      internalID: -4286371030184424708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prequel-ui_12
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 449
+        width: 69
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f14b945d3b324b40800000000000000
+      internalID: 5422962035906003440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prequel-ui_13
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 415
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb1aef2c7c823b860800000000000000
+      internalID: 7544418639210783164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prequel-ui_14
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 415
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b27cfb7f4ebecad0800000000000000
+      internalID: -2679995479647030607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prequel-ui_15
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 429
+        width: 112
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 761f094b61bdcadd0800000000000000
+      internalID: -2473361204768083609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prequel-ui_16
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 424
+        width: 74
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 678d4c558d9f64c20800000000000000
+      internalID: 3190512093585791094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prequel-ui_17
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 346
+        width: 118
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c31483a399a424c0800000000000000
+      internalID: -4313136091545463868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prequel-ui_18
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 392
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d41fafdece87ec60800000000000000
+      internalID: 7847397894883579092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prequel-ui_19
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 348
+        width: 50
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdb9008769a178ce0800000000000000
+      internalID: -1403123525341897764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prequel-ui_20
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 392
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98b1d9b3821fe9c10800000000000000
+      internalID: 2062350834483403657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prequel-ui_21
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 392
+        width: 98
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24110ad342d166540800000000000000
+      internalID: 5000716477731443010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prequel-ui_22
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 388
+        width: 125
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b13c0d1da750b530800000000000000
+      internalID: 3868688480939553208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prequel-ui_23
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 348
+        width: 49
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e21ce6f4be4b4c530800000000000000
+      internalID: 3874420502188441902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prequel-ui_24
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 365
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2ba0e5c8af4f0b60800000000000000
+      internalID: 7714472273001884458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prequel-ui_25
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 360
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c7e6439929bee0b0800000000000000
+      internalID: -5697412890361403448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prequel-ui_26
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 363
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79d7d6f67bfceed30800000000000000
+      internalID: 4462732667526151575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prequel-ui_27
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 367
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d9d59584638a9120800000000000000
+      internalID: 2421392217426221520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prequel-ui_28
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 371
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d999e72aa36d64380800000000000000
+      internalID: -8987260459048592995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prequel-ui_29
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 318
+        width: 142
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4fa9e96f370779e0800000000000000
+      internalID: -1623821171702517939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prequel-ui_30
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 358
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d8d0cfe22d328b30800000000000000
+      internalID: 4288057015470708945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prequel-ui_31
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 249
+        width: 162
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4659910a8b2b64310800000000000000
+      internalID: 1388994041120134500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prequel-ui_32
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 306
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2961b5520ef188230800000000000000
+      internalID: 3641195346288907922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prequel-ui_33
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 257
+        width: 47
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0db95f76ee9300ea0800000000000000
+      internalID: -5908659015000941616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prequel-ui_34
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 327
+        width: 82
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 016d37cc4cdc16860800000000000000
+      internalID: 7521519097812866576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prequel-ui_35
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 314
+        width: 52
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb31caaf35f540490800000000000000
+      internalID: -7780989441896868929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prequel-ui_36
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 301
+        width: 52
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 598a2348e630e6790800000000000000
+      internalID: -7535081353345062763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prequel-ui_37
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 310
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac869c3d194437f20800000000000000
+      internalID: 3419151935218477258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prequel-ui_38
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 288
+        width: 115
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 17, y: 11, z: 15, w: 9}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3850a9880eef03930800000000000000
+      internalID: 4121073899361928579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prequel-ui_39
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 252
+        width: 47
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e77630d53631d1560800000000000000
+      internalID: 7286001089638524798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prequel-ui_40
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 280
+        width: 71
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3a0972e75bc0bfc0800000000000000
+      internalID: -3481058933635216837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prequel-ui_41
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 295
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11fcf4b9d917c3e30800000000000000
+      internalID: 4484584250683674385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prequel-ui_42
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 255
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aabab3d0a73565610800000000000000
+      internalID: 1609565700504660906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prequel-ui_43
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 261
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc7cb77f09f356af0800000000000000
+      internalID: -403846699719866417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prequel-ui_44
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 278
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71406fdf7e40d16a0800000000000000
+      internalID: -6477015294644190185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prequel-ui_45
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 262
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4005555b3d55270a0800000000000000
+      internalID: -6885346512527339516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prequel-ui_46
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 260
+        width: 63
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 650aedaa5e8a3eb60800000000000000
+      internalID: 7774243086139301974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prequel-ui_47
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 261
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c08a87bb0bd425d0800000000000000
+      internalID: -3088102601098886969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prequel-ui_48
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 108
+        width: 136
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60e78b617ab58e040800000000000000
+      internalID: 4677088986223115782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prequel-ui_49
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 211
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d79d7df85f5524d0800000000000000
+      internalID: -3160014727715907630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prequel-ui_50
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 232
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e01c7c611b178ab40800000000000000
+      internalID: 5451732354337325326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prequel-ui_51
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 232
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d9dd701637e56a00800000000000000
+      internalID: 749259132417989072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prequel-ui_52
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 239
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d2382f241d976670800000000000000
+      internalID: 8531960729092764368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prequel-ui_53
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 239
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 7, y: 5, z: 7, w: 5}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efb9db22453ae87d0800000000000000
+      internalID: -2914212327106700290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prequel-ui_54
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 166
+        width: 60
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d88a6a81c6cdf0090800000000000000
+      internalID: -8065986050769114995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prequel-ui_55
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 209
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7224370ce214abd00800000000000000
+      internalID: 989174737214325287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prequel-ui_56
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 211
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 685a985e74c5ef440800000000000000
+      internalID: 4971512502527042950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prequel-ui_57
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 152
+        width: 86
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a459cfd8d364b1200800000000000000
+      internalID: 151792242636133706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prequel-ui_58
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 166
+        width: 47
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74a5d53e3b85c3bd0800000000000000
+      internalID: -2649144951163758009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prequel-ui_59
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 186
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 840879ac95553c540800000000000000
+      internalID: 5026955453214982216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prequel-ui_60
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 188
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b41930d1b515a5360800000000000000
+      internalID: 7159124009429471563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prequel-ui_61
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 163
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 396b6b2a836eb58c0800000000000000
+      internalID: -4009357912320854381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prequel-ui_62
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 148
+        width: 56
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 359ac857c533e88b0800000000000000
+      internalID: -5148120851835737773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prequel-ui_63
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 12
+        width: 139
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 530e6ae438463f6e0800000000000000
+      internalID: -1804988510522384331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prequel-ui_64
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 117
+        width: 48
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fb95a04b33c1d9d0800000000000000
+      internalID: -2751203238091580423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prequel-ui_65
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 115
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0de7bae95d1204c0800000000000000
+      internalID: -4322860420295037682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prequel-ui_66
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 112
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bab1f17ca79e812d0800000000000000
+      internalID: -3307637212767642709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prequel-ui_67
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 40
+        width: 76
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be150bb7caf7cb370800000000000000
+      internalID: 8339680988769571307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prequel-ui_68
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cee5ce59c16949d50800000000000000
+      internalID: 6743179591599021804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prequel-ui_69
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 35
+        width: 52
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a454e3da4f920a30800000000000000
+      internalID: 4180078547884594342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prequel-ui_70
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 88
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bbcf6a95e9ca08b0800000000000000
+      internalID: -5185110032987993164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prequel-ui_71
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 88
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 6, y: 6, z: 6, w: 6}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5a067304b2ee0ea0800000000000000
+      internalID: -5904532798656083365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prequel-ui_72
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 88
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34cf33766cb55c560800000000000000
+      internalID: 7333368475935833155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prequel-ui_73
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 88
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4b1d8393778af860800000000000000
+      internalID: 7564507454588656463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prequel-ui_74
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 88
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9edf6c60bd89b2a50800000000000000
+      internalID: 6497454953891036649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prequel-ui_75
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 88
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3beb9c283724ba4b0800000000000000
+      internalID: -5428171861982069069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prequel-ui_76
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 64
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf44b445327b62220800000000000000
+      internalID: 2460855608770512123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prequel-ui_77
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 64
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c31709b2b87497dc0800000000000000
+      internalID: -3640800160695422660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prequel-ui_78
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 64
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0414b933583af93d0800000000000000
+      internalID: -3197657417917972160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prequel-ui_79
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 64
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df4b1f5e4a4fbf330800000000000000
+      internalID: 3745856504158336253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prequel-ui_80
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 64
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64dd5b16e6898dbb0800000000000000
+      internalID: -4911007793794392762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prequel-ui_81
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 64
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2765334f67e2ca670800000000000000
+      internalID: 8551260880907753074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prequel-ui_82
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 18
+        width: 47
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 321e95a9b50937d50800000000000000
+      internalID: 6733884590955028771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prequel-ui_83
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 40
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 918f1d404f741e170800000000000000
+      internalID: 8205919109424216089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prequel-ui_84
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 40
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a1de668023354190800000000000000
+      internalID: -7978914950029586011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prequel-ui_85
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 40
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b491ec44bfc6c3e40800000000000000
+      internalID: 5637500660007967051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prequel-ui_86
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 40
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ec1da74cae7d0450800000000000000
+      internalID: 6056636352285187301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prequel-ui_87
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 40
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bd53d1cdf7fb4180800000000000000
+      internalID: -9129931150312907341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prequel-ui_88
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 40
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d338d555f25bfade0800000000000000
+      internalID: -1319636950895983811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prequel-ui_89
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 12
+        width: 38
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22f739b23ce948610800000000000000
+      internalID: 1622596326847119138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prequel-ui_90
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 12
+        width: 38
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58f5ee54b75617be0800000000000000
+      internalID: -1481291222299549819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 51d9d1da25533834095fad98a259c147
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      prequel-ui_0: -3605408771382701453
+      prequel-ui_1: 5125874654058314249
+      prequel-ui_10: 3268442690606123158
+      prequel-ui_11: -4286371030184424708
+      prequel-ui_12: 5422962035906003440
+      prequel-ui_13: 7544418639210783164
+      prequel-ui_14: -2679995479647030607
+      prequel-ui_15: -2473361204768083609
+      prequel-ui_16: 3190512093585791094
+      prequel-ui_17: -4313136091545463868
+      prequel-ui_18: 7847397894883579092
+      prequel-ui_19: -1403123525341897764
+      prequel-ui_2: -7751148599096669983
+      prequel-ui_20: 2062350834483403657
+      prequel-ui_21: 5000716477731443010
+      prequel-ui_22: 3868688480939553208
+      prequel-ui_23: 3874420502188441902
+      prequel-ui_24: 7714472273001884458
+      prequel-ui_25: -5697412890361403448
+      prequel-ui_26: 4462732667526151575
+      prequel-ui_27: 2421392217426221520
+      prequel-ui_28: -8987260459048592995
+      prequel-ui_29: -1623821171702517939
+      prequel-ui_3: 825415709368872163
+      prequel-ui_30: 4288057015470708945
+      prequel-ui_31: 1388994041120134500
+      prequel-ui_32: 3641195346288907922
+      prequel-ui_33: -5908659015000941616
+      prequel-ui_34: 7521519097812866576
+      prequel-ui_35: -7780989441896868929
+      prequel-ui_36: -7535081353345062763
+      prequel-ui_37: 3419151935218477258
+      prequel-ui_38: 4121073899361928579
+      prequel-ui_39: 7286001089638524798
+      prequel-ui_4: 4733745840825345257
+      prequel-ui_40: -3481058933635216837
+      prequel-ui_41: 4484584250683674385
+      prequel-ui_42: 1609565700504660906
+      prequel-ui_43: -403846699719866417
+      prequel-ui_44: -6477015294644190185
+      prequel-ui_45: -6885346512527339516
+      prequel-ui_46: 7774243086139301974
+      prequel-ui_47: -3088102601098886969
+      prequel-ui_48: 4677088986223115782
+      prequel-ui_49: -3160014727715907630
+      prequel-ui_5: 2155989861331111723
+      prequel-ui_50: 5451732354337325326
+      prequel-ui_51: 749259132417989072
+      prequel-ui_52: 8531960729092764368
+      prequel-ui_53: -2914212327106700290
+      prequel-ui_54: -8065986050769114995
+      prequel-ui_55: 989174737214325287
+      prequel-ui_56: 4971512502527042950
+      prequel-ui_57: 151792242636133706
+      prequel-ui_58: -2649144951163758009
+      prequel-ui_59: 5026955453214982216
+      prequel-ui_6: 3636444273757828001
+      prequel-ui_60: 7159124009429471563
+      prequel-ui_61: -4009357912320854381
+      prequel-ui_62: -5148120851835737773
+      prequel-ui_63: -1804988510522384331
+      prequel-ui_64: -2751203238091580423
+      prequel-ui_65: -4322860420295037682
+      prequel-ui_66: -3307637212767642709
+      prequel-ui_67: 8339680988769571307
+      prequel-ui_68: 6743179591599021804
+      prequel-ui_69: 4180078547884594342
+      prequel-ui_7: 3674534513384530853
+      prequel-ui_70: -5185110032987993164
+      prequel-ui_71: -5904532798656083365
+      prequel-ui_72: 7333368475935833155
+      prequel-ui_73: 7564507454588656463
+      prequel-ui_74: 6497454953891036649
+      prequel-ui_75: -5428171861982069069
+      prequel-ui_76: 2460855608770512123
+      prequel-ui_77: -3640800160695422660
+      prequel-ui_78: -3197657417917972160
+      prequel-ui_79: 3745856504158336253
+      prequel-ui_8: -7625992378860071215
+      prequel-ui_80: -4911007793794392762
+      prequel-ui_81: 8551260880907753074
+      prequel-ui_82: 6733884590955028771
+      prequel-ui_83: 8205919109424216089
+      prequel-ui_84: -7978914950029586011
+      prequel-ui_85: 5637500660007967051
+      prequel-ui_86: 6056636352285187301
+      prequel-ui_87: -9129931150312907341
+      prequel-ui_88: -1319636950895983811
+      prequel-ui_89: 1622596326847119138
+      prequel-ui_9: 3574224469087010634
+      prequel-ui_90: -1481291222299549819
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,708 @@
+fileFormatVersion: 2
+guid: 1185d617b3bd136419dfbed3df306724
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8688847461438431181
+    second: trapMaster_6_0
+  - first:
+      213: -5238183057129072147
+    second: trapMaster_6_1
+  - first:
+      213: 6724379325600171989
+    second: trapMaster_6_2
+  - first:
+      213: 4339407619157504005
+    second: trapMaster_6_3
+  - first:
+      213: -7800602148970716323
+    second: trapMaster_6_4
+  - first:
+      213: -1646375318154719642
+    second: trapMaster_6_5
+  - first:
+      213: -2040063788876997526
+    second: trapMaster_6_6
+  - first:
+      213: -5514482132511721759
+    second: trapMaster_6_7
+  - first:
+      213: -872857145739899912
+    second: trapMaster_6_8
+  - first:
+      213: 7289468585930981693
+    second: trapMaster_6_9
+  - first:
+      213: 287723076882356742
+    second: trapMaster_6_10
+  - first:
+      213: 6388207785732458795
+    second: trapMaster_6_11
+  - first:
+      213: -8253687641409886074
+    second: trapMaster_6_12
+  - first:
+      213: -7756250948553862488
+    second: trapMaster_6_13
+  - first:
+      213: 4797448591761857990
+    second: trapMaster_6_14
+  - first:
+      213: -5027691779747296840
+    second: trapMaster_6_15
+  - first:
+      213: 2288679304716835823
+    second: trapMaster_6_16
+  - first:
+      213: -6305503733264676205
+    second: trapMaster_6_17
+  - first:
+      213: 6310353966986595323
+    second: trapMaster_6_18
+  - first:
+      213: -5428501318735720596
+    second: trapMaster_6_19
+  - first:
+      213: -3013418939251564364
+    second: trapMaster_6_20
+  - first:
+      213: 4698379227281472316
+    second: trapMaster_6_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: trapMaster_6_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 74
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7cb448bcac344348a512a8288d381b3
+      internalID: 518740318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trapMaster_6_1
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 74
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf47e1836cbd6174586bd566512720b5
+      internalID: 1887672373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trapMaster_6_2
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 74
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c4c011ba498cb04fa3fe7ff5ea67683
+      internalID: 69433801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trapMaster_6_3
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 74
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffba2c53e7f9797479e88c66dbb1aa0d
+      internalID: 911506971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trapMaster_6_4
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 74
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e24dee017d824a344bcb82c9d1386b62
+      internalID: -295029000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trapMaster_6_5
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 37
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cae7005c27cc0e4fbd47a61cef5c3f5
+      internalID: -503903930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trapMaster_6_6
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 74
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69f1033bfde86dc40aa1de6bd1b9429d
+      internalID: 136525588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trapMaster_6_7
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 74
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01519c942eab68f499f599716c9970d1
+      internalID: 358540721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trapMaster_6_8
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 74
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d69c69353e191e84da5b3670d83cb3b1
+      internalID: 744403214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trapMaster_6_9
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 37
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48aeae88f2d0875448629bbc80c20eb0
+      internalID: -1578296169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trapMaster_6_10
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 37
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98cab127c2307c740baad9375ef81cf0
+      internalID: 796018772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trapMaster_6_11
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 37
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bcff59230796ec49aacf34d4ab39b88
+      internalID: 521547391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trapMaster_6_12
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 37
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed51983ac7f061247b223ec1d65783ff
+      internalID: -423642772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trapMaster_6_13
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 37
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a06e172a62ccd944a84fb7e013cd28ce
+      internalID: 576685943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trapMaster_6_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf1197f7ac72604408b64606593a2171
+      internalID: -1610842397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trapMaster_6_15
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 0
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e5bcbef2421da47b24ce47fb428e78
+      internalID: 645869240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trapMaster_6_16
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 0
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1493fc3ed2d94f4aa4fa02313eb5aab
+      internalID: -1318239018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trapMaster_6_17
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 0
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c60c97e13173894aab1c83a796294ab
+      internalID: -757899975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trapMaster_6_18
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f5b14bab8132f479c83ce09236c6cd
+      internalID: 1434393812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trapMaster_6_19
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 0
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 991c80b7580978340931369e16c12bfc
+      internalID: 1527343217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trapMaster_6_20
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 0
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a7fc38e12027cd42854e8907a43cee0
+      internalID: -1664800515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trapMaster_6_21
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 0
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2937c6423a34a54c961b469331c7b56
+      internalID: -714386927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trapMaster_6_22
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 37
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b591bcaacacd6544f96e795bb7b04306
+      internalID: 106585619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trapMaster_6_23
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 37
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9ef12bc3de1570478c009962280f939
+      internalID: -1511573063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 8753860ce12669b4fad3189cf583d5ee
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      trapMaster_6_0: 518740318
+      trapMaster_6_1: 1887672373
+      trapMaster_6_10: 796018772
+      trapMaster_6_11: 521547391
+      trapMaster_6_12: -423642772
+      trapMaster_6_13: 576685943
+      trapMaster_6_14: -1610842397
+      trapMaster_6_15: 645869240
+      trapMaster_6_16: -1318239018
+      trapMaster_6_17: -757899975
+      trapMaster_6_18: 1434393812
+      trapMaster_6_19: 1527343217
+      trapMaster_6_2: 69433801
+      trapMaster_6_20: -1664800515
+      trapMaster_6_21: -714386927
+      trapMaster_6_22: 106585619
+      trapMaster_6_23: -1511573063
+      trapMaster_6_3: 911506971
+      trapMaster_6_4: -295029000
+      trapMaster_6_5: -503903930
+      trapMaster_6_6: 136525588
+      trapMaster_6_7: 358540721
+      trapMaster_6_8: 744403214
+      trapMaster_6_9: -1578296169
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

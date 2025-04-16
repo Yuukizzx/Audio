@@ -1,0 +1,3064 @@
+fileFormatVersion: 2
+guid: fd06422b7b22a384190c861ff6a6784c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 942315257055654258
+    second: objects_pickable_0
+  - first:
+      213: -5623991831220670730
+    second: objects_pickable_1
+  - first:
+      213: -8401388024912307975
+    second: objects_pickable_2
+  - first:
+      213: -5993573552019077087
+    second: objects_pickable_3
+  - first:
+      213: 7387316373210217497
+    second: objects_pickable_4
+  - first:
+      213: -2237995681786230333
+    second: objects_pickable_5
+  - first:
+      213: 8080140828570317676
+    second: objects_pickable_6
+  - first:
+      213: 5545340402437651127
+    second: objects_pickable_7
+  - first:
+      213: -4613806339421918297
+    second: objects_pickable_8
+  - first:
+      213: 4453477566163931886
+    second: objects_pickable_9
+  - first:
+      213: 9184712564295659738
+    second: objects_pickable_10
+  - first:
+      213: 5813119414782435209
+    second: objects_pickable_11
+  - first:
+      213: -8450952885515469886
+    second: objects_pickable_12
+  - first:
+      213: 4678772858120551966
+    second: objects_pickable_13
+  - first:
+      213: 6506888976163314522
+    second: objects_pickable_14
+  - first:
+      213: -5790314257127377850
+    second: objects_pickable_15
+  - first:
+      213: -5134746432591677395
+    second: objects_pickable_16
+  - first:
+      213: 4919722126135503308
+    second: objects_pickable_17
+  - first:
+      213: -5828009258888423365
+    second: objects_pickable_18
+  - first:
+      213: -316530095002111876
+    second: objects_pickable_19
+  - first:
+      213: 7365523511195451062
+    second: objects_pickable_20
+  - first:
+      213: -4096280128068420237
+    second: objects_pickable_21
+  - first:
+      213: 5946940773135450254
+    second: objects_pickable_22
+  - first:
+      213: -2395091287325993300
+    second: objects_pickable_23
+  - first:
+      213: 1735342913389421470
+    second: objects_pickable_24
+  - first:
+      213: -2221798077281692771
+    second: objects_pickable_25
+  - first:
+      213: -5227717435399401922
+    second: objects_pickable_26
+  - first:
+      213: -7912751710192447502
+    second: objects_pickable_27
+  - first:
+      213: -7135507785267687660
+    second: objects_pickable_28
+  - first:
+      213: 8784485072197332627
+    second: objects_pickable_29
+  - first:
+      213: 6394246720495607756
+    second: objects_pickable_30
+  - first:
+      213: 1562897469925305306
+    second: objects_pickable_31
+  - first:
+      213: 3069245780391479474
+    second: objects_pickable_32
+  - first:
+      213: 4054925091654795349
+    second: objects_pickable_33
+  - first:
+      213: 4162458927742571274
+    second: objects_pickable_34
+  - first:
+      213: -967078092274571315
+    second: objects_pickable_35
+  - first:
+      213: -1171526793485748735
+    second: objects_pickable_36
+  - first:
+      213: -8258088605217489127
+    second: objects_pickable_37
+  - first:
+      213: 3804216470767479973
+    second: objects_pickable_38
+  - first:
+      213: 1659523109124818861
+    second: objects_pickable_39
+  - first:
+      213: -1166499015643859905
+    second: objects_pickable_40
+  - first:
+      213: 8338227585041112969
+    second: objects_pickable_41
+  - first:
+      213: 7861199048980772756
+    second: objects_pickable_42
+  - first:
+      213: 7712943947300767859
+    second: objects_pickable_43
+  - first:
+      213: -6191826288136046009
+    second: objects_pickable_44
+  - first:
+      213: 3384778419483226858
+    second: objects_pickable_45
+  - first:
+      213: -3002027542292175944
+    second: objects_pickable_46
+  - first:
+      213: -5238879139355996123
+    second: objects_pickable_47
+  - first:
+      213: -1070654801921535220
+    second: objects_pickable_48
+  - first:
+      213: 594008816323001436
+    second: objects_pickable_49
+  - first:
+      213: -5417865697473496307
+    second: objects_pickable_50
+  - first:
+      213: -8728902416490081940
+    second: objects_pickable_51
+  - first:
+      213: 7924156365423754847
+    second: objects_pickable_52
+  - first:
+      213: -852906441773853372
+    second: objects_pickable_53
+  - first:
+      213: -8544258760565275010
+    second: objects_pickable_54
+  - first:
+      213: -1741437080660891617
+    second: objects_pickable_55
+  - first:
+      213: 5987725231364749410
+    second: objects_pickable_56
+  - first:
+      213: -1874334268663346960
+    second: objects_pickable_57
+  - first:
+      213: -2900337675068435637
+    second: objects_pickable_58
+  - first:
+      213: 4536019169445354851
+    second: objects_pickable_59
+  - first:
+      213: 725514641186806829
+    second: objects_pickable_60
+  - first:
+      213: -692698109243168241
+    second: objects_pickable_61
+  - first:
+      213: 6089906727665347120
+    second: objects_pickable_62
+  - first:
+      213: -7443042667931284557
+    second: objects_pickable_63
+  - first:
+      213: -8398988478291050962
+    second: objects_pickable_64
+  - first:
+      213: -496619231937635104
+    second: objects_pickable_65
+  - first:
+      213: -379202604803842516
+    second: objects_pickable_66
+  - first:
+      213: -2116642783041315703
+    second: objects_pickable_67
+  - first:
+      213: 7488038095747576374
+    second: objects_pickable_68
+  - first:
+      213: 3039980859555911735
+    second: objects_pickable_69
+  - first:
+      213: 6047044980984839631
+    second: objects_pickable_70
+  - first:
+      213: 8205112062718066764
+    second: objects_pickable_71
+  - first:
+      213: 5570358153271725308
+    second: objects_pickable_72
+  - first:
+      213: 19027246299402852
+    second: objects_pickable_73
+  - first:
+      213: 3386458784763730697
+    second: objects_pickable_74
+  - first:
+      213: 1577181241234177909
+    second: objects_pickable_75
+  - first:
+      213: 1796477009654064345
+    second: objects_pickable_76
+  - first:
+      213: 4048995434772440196
+    second: objects_pickable_77
+  - first:
+      213: 5858828452297785913
+    second: objects_pickable_78
+  - first:
+      213: 7285745036705246050
+    second: objects_pickable_79
+  - first:
+      213: -6995812238774084951
+    second: objects_pickable_80
+  - first:
+      213: 576313015526570369
+    second: objects_pickable_81
+  - first:
+      213: -4056901533607618120
+    second: objects_pickable_82
+  - first:
+      213: 7134480093067477243
+    second: objects_pickable_83
+  - first:
+      213: -143799816344260993
+    second: objects_pickable_84
+  - first:
+      213: -5221912637163664534
+    second: objects_pickable_85
+  - first:
+      213: 5302400308090930446
+    second: objects_pickable_86
+  - first:
+      213: -2154502300754135734
+    second: objects_pickable_87
+  - first:
+      213: -3760453174598925916
+    second: objects_pickable_88
+  - first:
+      213: 8751984391136094042
+    second: objects_pickable_89
+  - first:
+      213: -6786610968391508009
+    second: objects_pickable_90
+  - first:
+      213: -9100099843337236056
+    second: objects_pickable_91
+  - first:
+      213: 7342106898091945713
+    second: objects_pickable_92
+  - first:
+      213: -4257915575214375565
+    second: objects_pickable_93
+  - first:
+      213: -8804682333574295843
+    second: objects_pickable_94
+  - first:
+      213: 8289023921645354719
+    second: objects_pickable_95
+  - first:
+      213: 2073144192744296457
+    second: objects_pickable_96
+  - first:
+      213: 8739401302790852154
+    second: objects_pickable_97
+  - first:
+      213: 6560625503804657428
+    second: objects_pickable_98
+  - first:
+      213: 3511769333473822997
+    second: objects_pickable_99
+  - first:
+      213: -8544723293148972920
+    second: objects_pickable_100
+  - first:
+      213: 1875028067833499288
+    second: objects_pickable_101
+  - first:
+      213: 9033400676574406477
+    second: objects_pickable_102
+  - first:
+      213: 3514891023058473345
+    second: objects_pickable_103
+  - first:
+      213: 8985027146096880775
+    second: objects_pickable_104
+  - first:
+      213: -7039538949605534318
+    second: objects_pickable_105
+  - first:
+      213: -6354221924275524083
+    second: objects_pickable_106
+  - first:
+      213: 3068154186447962386
+    second: objects_pickable_107
+  - first:
+      213: -8382551422438330422
+    second: objects_pickable_108
+  - first:
+      213: 893276507710102733
+    second: objects_pickable_109
+  - first:
+      213: -4433152062490129769
+    second: objects_pickable_110
+  - first:
+      213: 5087203992533800904
+    second: objects_pickable_111
+  - first:
+      213: -6530979599604642999
+    second: objects_pickable_112
+  - first:
+      213: 3217866057122490219
+    second: objects_pickable_113
+  - first:
+      213: -3336759305222419999
+    second: objects_pickable_114
+  - first:
+      213: 4715605202051068738
+    second: objects_pickable_115
+  - first:
+      213: 8570037698362056740
+    second: objects_pickable_116
+  - first:
+      213: -1693414098360645569
+    second: objects_pickable_117
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: objects_pickable_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 230
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 271bb33dbb6c31d00800000000000000
+      internalID: 942315257055654258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_pickable_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 232
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fea4680a3193f1b0800000000000000
+      internalID: -5623991831220670730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_pickable_2
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 235
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f891e29a16486b80800000000000000
+      internalID: -8401388024912307975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_pickable_3
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 235
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1280ab81c9c82dca0800000000000000
+      internalID: -5993573552019077087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_pickable_4
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 235
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91c3f9c0a15058660800000000000000
+      internalID: 7387316373210217497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_pickable_5
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 235
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c9064ae8ca01f0e0800000000000000
+      internalID: -2237995681786230333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_pickable_6
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 236
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c63701ee54d622070800000000000000
+      internalID: 8080140828570317676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_pickable_7
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 237
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bafaed27b105fc40800000000000000
+      internalID: 5545340402437651127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_pickable_8
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 236
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7abaf4c449778ffb0800000000000000
+      internalID: -4613806339421918297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_pickable_9
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 234
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee25f5a304eedcd30800000000000000
+      internalID: 4453477566163931886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_pickable_10
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 235
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad0f8ee1a67a67f70800000000000000
+      internalID: 9184712564295659738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_pickable_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 204
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98f980bfe495ca050800000000000000
+      internalID: 5813119414782435209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_pickable_12
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 212
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cbb94d202f28ba80800000000000000
+      internalID: -8450952885515469886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_pickable_13
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 218
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1eb30110275ee040800000000000000
+      internalID: 4678772858120551966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_pickable_14
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 217
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5b9e118c0d1d4a50800000000000000
+      internalID: 6506888976163314522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_pickable_15
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 217
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 644fa0e8cdba4afa0800000000000000
+      internalID: -5790314257127377850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_pickable_16
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 217
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d283ba91357bdb8b0800000000000000
+      internalID: -5134746432591677395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_pickable_17
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 215
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc9afe9353d564440800000000000000
+      internalID: 4919722126135503308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_pickable_18
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 215
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3894480570ce1fa0800000000000000
+      internalID: -5828009258888423365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_pickable_19
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 211
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c70bdae3e857b9bf0800000000000000
+      internalID: -316530095002111876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_pickable_20
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 220
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6beb795fb98973660800000000000000
+      internalID: 7365523511195451062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_pickable_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 178
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37d7df13de61727c0800000000000000
+      internalID: -4096280128068420237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_pickable_22
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 190
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e80860bff17c78250800000000000000
+      internalID: 5946940773135450254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_pickable_23
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 186
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca61d46f92de2ced0800000000000000
+      internalID: -2395091287325993300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_pickable_24
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 191
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e93611c7f2d251810800000000000000
+      internalID: 1735342913389421470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_pickable_25
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 188
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d939af89b669a21e0800000000000000
+      internalID: -2221798077281692771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_pickable_26
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 189
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3e07eca0ba6377b0800000000000000
+      internalID: -5227717435399401922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_pickable_27
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 189
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ff4d1e3e32403290800000000000000
+      internalID: -7912751710192447502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_pickable_28
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 190
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41fc51f897599fc90800000000000000
+      internalID: -7135507785267687660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_pickable_29
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 192
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39e2b0781a2c8e970800000000000000
+      internalID: 8784485072197332627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_pickable_30
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 193
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccfd85d938decb850800000000000000
+      internalID: 6394246720495607756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_pickable_31
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 200
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adb2143e7f680b510800000000000000
+      internalID: 1562897469925305306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_pickable_32
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 167
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b8c99496c6289a20800000000000000
+      internalID: 3069245780391479474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_pickable_33
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 169
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55007ee03ecf54830800000000000000
+      internalID: 4054925091654795349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_pickable_34
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 166
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a03df34575604c930800000000000000
+      internalID: 4162458927742571274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_pickable_35
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 167
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc769ef499f3492f0800000000000000
+      internalID: -967078092274571315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_pickable_36
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 151
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 106fd6d9696edbfe0800000000000000
+      internalID: -1171526793485748735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_pickable_37
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 186
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91f7f42ba20656d80800000000000000
+      internalID: -8258088605217489127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_pickable_38
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 169
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ac29cc79ba4bc430800000000000000
+      internalID: 3804216470767479973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_pickable_39
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 169
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da7cfe7a97fc70710800000000000000
+      internalID: 1659523109124818861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_pickable_40
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 171
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3474bd5353cfcfe0800000000000000
+      internalID: -1166499015643859905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_pickable_41
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 169
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98f1dbe8fc557b370800000000000000
+      internalID: 8338227585041112969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_pickable_42
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 151
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 497332772e6981d60800000000000000
+      internalID: 7861199048980772756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_pickable_43
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 138
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3788c57b7a1e90b60800000000000000
+      internalID: 7712943947300767859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_pickable_44
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 151
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74ab9b0fbc6321aa0800000000000000
+      internalID: -6191826288136046009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_pickable_45
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 138
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae2b4b80a0629fe20800000000000000
+      internalID: 3384778419483226858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_pickable_46
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 151
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b36cbf0bd7a656d0800000000000000
+      internalID: -3002027542292175944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_pickable_47
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 138
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5205b75fd23cb47b0800000000000000
+      internalID: -5238879139355996123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_pickable_48
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 144
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c03966651254421f0800000000000000
+      internalID: -1070654801921535220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_pickable_49
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 145
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5cf16a0fd75e3800800000000000000
+      internalID: 594008816323001436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_pickable_50
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 141
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0b715d6adfdfc4b0800000000000000
+      internalID: -5417865697473496307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_pickable_51
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 145
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c615f0aff75bcd680800000000000000
+      internalID: -8728902416490081940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_pickable_52
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 143
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5ebbb9fa3248fd60800000000000000
+      internalID: 7924156365423754847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_pickable_53
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 144
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4455d6f2c1ed924f0800000000000000
+      internalID: -852906441773853372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_pickable_54
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 151
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e76cc7b3de1bc6980800000000000000
+      internalID: -8544258760565275010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_pickable_55
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 125
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f18a380a33c25d7e0800000000000000
+      internalID: -1741437080660891617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_pickable_56
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 125
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 268b324af5ca81350800000000000000
+      internalID: 5987725231364749410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_pickable_57
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 125
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f8cafdc9e60df5e0800000000000000
+      internalID: -1874334268663346960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_pickable_58
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 121
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b431ddc404eefb7d0800000000000000
+      internalID: -2900337675068435637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_pickable_59
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 124
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36d1729d66d23fe30800000000000000
+      internalID: 4536019169445354851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_pickable_60
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 124
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2cd843e8bb811a00800000000000000
+      internalID: 725514641186806829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_pickable_61
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 125
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0ae9fd5dba0366f0800000000000000
+      internalID: -692698109243168241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_pickable_62
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 124
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03a21c137e1b38450800000000000000
+      internalID: 6089906727665347120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_pickable_63
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 122
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bb41e1e02005b890800000000000000
+      internalID: -7443042667931284557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_pickable_64
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 127
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2efcde8a7cc07b80800000000000000
+      internalID: -8398988478291050962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_pickable_65
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 137
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ecdab39077ab19f0800000000000000
+      internalID: -496619231937635104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_pickable_66
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 105
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2e93c27d3dccbaf0800000000000000
+      internalID: -379202604803842516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_pickable_67
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 105
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98c9d607a9c20a2e0800000000000000
+      internalID: -2116642783041315703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_pickable_68
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 105
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63270a989fadae760800000000000000
+      internalID: 7488038095747576374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_pickable_69
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 105
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73811d93c7e203a20800000000000000
+      internalID: 3039980859555911735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_pickable_70
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 124
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcdf8602f5b6be350800000000000000
+      internalID: 6047044980984839631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_pickable_71
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 79
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c404590d2f96ed170800000000000000
+      internalID: 8205112062718066764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_pickable_72
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 101
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfc46753a33ed4d40800000000000000
+      internalID: 5570358153271725308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_pickable_73
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 102
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 462dab00e29934000800000000000000
+      internalID: 19027246299402852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_pickable_74
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 102
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90bd750925e1ffe20800000000000000
+      internalID: 3386458784763730697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_pickable_75
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 102
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57f3c2e8bf543e510800000000000000
+      internalID: 1577181241234177909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_pickable_76
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 102
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d42697725e5ee810800000000000000
+      internalID: 1796477009654064345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_pickable_77
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 105
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4842aca35ebe03830800000000000000
+      internalID: 4048995434772440196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_pickable_78
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 84
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 932492b9f6dbe4150800000000000000
+      internalID: 5858828452297785913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_pickable_79
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 81
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26ba1e4628a2c1560800000000000000
+      internalID: 7285745036705246050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_pickable_80
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 81
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aa5a8095d1e9ee90800000000000000
+      internalID: -6995812238774084951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_pickable_81
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 78
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18935e952a97ff700800000000000000
+      internalID: 576313015526570369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_pickable_82
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 81
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b99490bc8df2b7c0800000000000000
+      internalID: -4056901533607618120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_pickable_83
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 80
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf0026438d3c20360800000000000000
+      internalID: 7134480093067477243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_pickable_84
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 80
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7ea80434de110ef0800000000000000
+      internalID: -143799816344260993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_pickable_85
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 83
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6b8cb59f1a0887b0800000000000000
+      internalID: -5221912637163664534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_pickable_86
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 60
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e058ea4acf8e59940800000000000000
+      internalID: 5302400308090930446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_pickable_87
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 59
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a45b9cf829ba912e0800000000000000
+      internalID: -2154502300754135734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_pickable_88
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 59
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a18a8de2cf20dbc0800000000000000
+      internalID: -3760453174598925916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_pickable_89
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 61
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a572e690f6b457970800000000000000
+      internalID: 8751984391136094042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_pickable_90
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 61
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7df1140084d11d1a0800000000000000
+      internalID: -6786610968391508009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_pickable_91
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 61
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a1db492863f5b180800000000000000
+      internalID: -9100099843337236056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_pickable_92
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 62
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fe27bbd25764e560800000000000000
+      internalID: 7342106898091945713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_pickable_93
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 64
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37d7ebff758d8e4c0800000000000000
+      internalID: -4257915575214375565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_pickable_94
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 47
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dde852b111c7fc580800000000000000
+      internalID: -8804682333574295843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_pickable_95
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 20
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdef260f657880370800000000000000
+      internalID: 8289023921645354719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_pickable_96
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 44
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90010b8c8a945cc10800000000000000
+      internalID: 2073144192744296457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_pickable_97
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 44
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3e4f6a7e27984970800000000000000
+      internalID: 8739401302790852154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_pickable_98
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 38
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41f05a2d2260c0b50800000000000000
+      internalID: 6560625503804657428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_pickable_99
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 45
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51941d64a9f4cb030800000000000000
+      internalID: 3511769333473822997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_pickable_100
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 44
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88879dfcf6b0b6980800000000000000
+      internalID: -8544723293148972920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_pickable_101
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 4
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89e4a17e710750a10800000000000000
+      internalID: 1875028067833499288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_pickable_102
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 4
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d47adf8ed061d5d70800000000000000
+      internalID: 9033400676574406477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_pickable_103
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 0
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1811c9543c667c030800000000000000
+      internalID: 3514891023058473345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_pickable_104
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 29
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78ca85ca59a31bc70800000000000000
+      internalID: 8985027146096880775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_pickable_105
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 27
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2955c365f988e4e90800000000000000
+      internalID: -7039538949605534318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_pickable_106
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 4
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0eee8373d441d7a0800000000000000
+      internalID: -6354221924275524083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_pickable_107
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 5
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 211cb5f0af5449a20800000000000000
+      internalID: 3068154186447962386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_pickable_108
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 2
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acf2e1ad4e13bab80800000000000000
+      internalID: -8382551422438330422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_pickable_109
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 2
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcc1340404e856c00800000000000000
+      internalID: 893276507710102733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_pickable_110
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 2
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79a4cffdfa74a72c0800000000000000
+      internalID: -4433152062490129769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_pickable_111
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 2
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c71deaf311699640800000000000000
+      internalID: 5087203992533800904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_pickable_112
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 2
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94b0e3228ac4d55a0800000000000000
+      internalID: -6530979599604642999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_pickable_113
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 2
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b67a295412828ac20800000000000000
+      internalID: 3217866057122490219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_pickable_114
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 2
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e90d3f371371b1d0800000000000000
+      internalID: -3336759305222419999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_pickable_115
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 2
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 243fc3962f1317140800000000000000
+      internalID: 4715605202051068738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_pickable_116
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 13
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 420a39271e3eee670800000000000000
+      internalID: 8570037698362056740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_pickable_117
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 12
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f38439189d8cf78e0800000000000000
+      internalID: -1693414098360645569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      objects_pickable_0: 942315257055654258
+      objects_pickable_1: -5623991831220670730
+      objects_pickable_10: 9184712564295659738
+      objects_pickable_100: -8544723293148972920
+      objects_pickable_101: 1875028067833499288
+      objects_pickable_102: 9033400676574406477
+      objects_pickable_103: 3514891023058473345
+      objects_pickable_104: 8985027146096880775
+      objects_pickable_105: -7039538949605534318
+      objects_pickable_106: -6354221924275524083
+      objects_pickable_107: 3068154186447962386
+      objects_pickable_108: -8382551422438330422
+      objects_pickable_109: 893276507710102733
+      objects_pickable_11: 5813119414782435209
+      objects_pickable_110: -4433152062490129769
+      objects_pickable_111: 5087203992533800904
+      objects_pickable_112: -6530979599604642999
+      objects_pickable_113: 3217866057122490219
+      objects_pickable_114: -3336759305222419999
+      objects_pickable_115: 4715605202051068738
+      objects_pickable_116: 8570037698362056740
+      objects_pickable_117: -1693414098360645569
+      objects_pickable_12: -8450952885515469886
+      objects_pickable_13: 4678772858120551966
+      objects_pickable_14: 6506888976163314522
+      objects_pickable_15: -5790314257127377850
+      objects_pickable_16: -5134746432591677395
+      objects_pickable_17: 4919722126135503308
+      objects_pickable_18: -5828009258888423365
+      objects_pickable_19: -316530095002111876
+      objects_pickable_2: -8401388024912307975
+      objects_pickable_20: 7365523511195451062
+      objects_pickable_21: -4096280128068420237
+      objects_pickable_22: 5946940773135450254
+      objects_pickable_23: -2395091287325993300
+      objects_pickable_24: 1735342913389421470
+      objects_pickable_25: -2221798077281692771
+      objects_pickable_26: -5227717435399401922
+      objects_pickable_27: -7912751710192447502
+      objects_pickable_28: -7135507785267687660
+      objects_pickable_29: 8784485072197332627
+      objects_pickable_3: -5993573552019077087
+      objects_pickable_30: 6394246720495607756
+      objects_pickable_31: 1562897469925305306
+      objects_pickable_32: 3069245780391479474
+      objects_pickable_33: 4054925091654795349
+      objects_pickable_34: 4162458927742571274
+      objects_pickable_35: -967078092274571315
+      objects_pickable_36: -1171526793485748735
+      objects_pickable_37: -8258088605217489127
+      objects_pickable_38: 3804216470767479973
+      objects_pickable_39: 1659523109124818861
+      objects_pickable_4: 7387316373210217497
+      objects_pickable_40: -1166499015643859905
+      objects_pickable_41: 8338227585041112969
+      objects_pickable_42: 7861199048980772756
+      objects_pickable_43: 7712943947300767859
+      objects_pickable_44: -6191826288136046009
+      objects_pickable_45: 3384778419483226858
+      objects_pickable_46: -3002027542292175944
+      objects_pickable_47: -5238879139355996123
+      objects_pickable_48: -1070654801921535220
+      objects_pickable_49: 594008816323001436
+      objects_pickable_5: -2237995681786230333
+      objects_pickable_50: -5417865697473496307
+      objects_pickable_51: -8728902416490081940
+      objects_pickable_52: 7924156365423754847
+      objects_pickable_53: -852906441773853372
+      objects_pickable_54: -8544258760565275010
+      objects_pickable_55: -1741437080660891617
+      objects_pickable_56: 5987725231364749410
+      objects_pickable_57: -1874334268663346960
+      objects_pickable_58: -2900337675068435637
+      objects_pickable_59: 4536019169445354851
+      objects_pickable_6: 8080140828570317676
+      objects_pickable_60: 725514641186806829
+      objects_pickable_61: -692698109243168241
+      objects_pickable_62: 6089906727665347120
+      objects_pickable_63: -7443042667931284557
+      objects_pickable_64: -8398988478291050962
+      objects_pickable_65: -496619231937635104
+      objects_pickable_66: -379202604803842516
+      objects_pickable_67: -2116642783041315703
+      objects_pickable_68: 7488038095747576374
+      objects_pickable_69: 3039980859555911735
+      objects_pickable_7: 5545340402437651127
+      objects_pickable_70: 6047044980984839631
+      objects_pickable_71: 8205112062718066764
+      objects_pickable_72: 5570358153271725308
+      objects_pickable_73: 19027246299402852
+      objects_pickable_74: 3386458784763730697
+      objects_pickable_75: 1577181241234177909
+      objects_pickable_76: 1796477009654064345
+      objects_pickable_77: 4048995434772440196
+      objects_pickable_78: 5858828452297785913
+      objects_pickable_79: 7285745036705246050
+      objects_pickable_8: -4613806339421918297
+      objects_pickable_80: -6995812238774084951
+      objects_pickable_81: 576313015526570369
+      objects_pickable_82: -4056901533607618120
+      objects_pickable_83: 7134480093067477243
+      objects_pickable_84: -143799816344260993
+      objects_pickable_85: -5221912637163664534
+      objects_pickable_86: 5302400308090930446
+      objects_pickable_87: -2154502300754135734
+      objects_pickable_88: -3760453174598925916
+      objects_pickable_89: 8751984391136094042
+      objects_pickable_9: 4453477566163931886
+      objects_pickable_90: -6786610968391508009
+      objects_pickable_91: -9100099843337236056
+      objects_pickable_92: 7342106898091945713
+      objects_pickable_93: -4257915575214375565
+      objects_pickable_94: -8804682333574295843
+      objects_pickable_95: 8289023921645354719
+      objects_pickable_96: 2073144192744296457
+      objects_pickable_97: 8739401302790852154
+      objects_pickable_98: 6560625503804657428
+      objects_pickable_99: 3511769333473822997
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
