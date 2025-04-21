@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Mac" BasePlatform="Mac" SchemaVersion="16" SoundBankVersion="150">
+	<RootPaths>
+		<ProjectRoot>../..</ProjectRoot>
+		<SourceFilesRoot>../../.cache/Mac</SourceFilesRoot>
+		<SoundBanksRoot>.</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>.</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<SoundBanks>
+		<SoundBank Id="1100754030" Type="User" Language="SFX" Hash="{F16A23C3-28BA-CAFD-A5E3-5B1F2F47E023}">
+			<ShortName>All</ShortName>
+			<Path>All.bnk</Path>
+			<Media>
+				<File Id="27056504" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>RifleShoot.wav</ShortName>
+					<CachePath>SFX/RifleShoot_818F3B66.wem</CachePath>
+				</File>
+				<File Id="36179741" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>EnemyDie.wav</ShortName>
+					<CachePath>SFX/EnemyDie_818F3B66.wem</CachePath>
+				</File>
+				<File Id="77402644" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>PlayerHurt.wav</ShortName>
+					<CachePath>SFX/PlayerHurt_818F3B66.wem</CachePath>
+				</File>
+				<File Id="116182204" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>RocketShoot.wav</ShortName>
+					<CachePath>SFX/RocketShoot_818F3B66.wem</CachePath>
+				</File>
+				<File Id="157789356" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>RocketExplore.wav</ShortName>
+					<CachePath>SFX/RocketExplore_818F3B66.wem</CachePath>
+				</File>
+				<File Id="246000459" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>EnemySpawn.wav</ShortName>
+					<CachePath>SFX/EnemySpawn_818F3B66.wem</CachePath>
+				</File>
+				<File Id="444441078" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>EnemyHurt.wav</ShortName>
+					<CachePath>SFX/EnemyHurt_818F3B66.wem</CachePath>
+				</File>
+				<File Id="580627807" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>SniperShoot.wav</ShortName>
+					<CachePath>SFX/SniperShoot_818F3B66.wem</CachePath>
+				</File>
+				<File Id="918081918" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>PlayerDash.wav</ShortName>
+					<CachePath>SFX/PlayerDash_818F3B66.wem</CachePath>
+				</File>
+				<File Id="918775500" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>EnemyFire.wav</ShortName>
+					<CachePath>SFX/EnemyFire_818F3B66.wem</CachePath>
+				</File>
+				<File Id="987720602" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>SwitchWeapon.wav</ShortName>
+					<CachePath>SFX/SwitchWeapon_818F3B66.wem</CachePath>
+				</File>
+			</Media>
+			<Events>
+				<Event Id="794424115" Name="EnemyDie" MaxAttenuation="20" DurationType="OneShot" DurationMin="0.44408163" DurationMax="0.44408163">
+					<MediaRefs>
+						<MediaRef Id="36179741"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="2446068219" Name="EnemyFire" MaxAttenuation="20" DurationType="OneShot" DurationMin="0.44408163" DurationMax="0.44408163">
+					<MediaRefs>
+						<MediaRef Id="918775500"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="208556064" Name="EnemyHurt" MaxAttenuation="20" DurationType="OneShot" DurationMin="0.18285714" DurationMax="0.18285714">
+					<MediaRefs>
+						<MediaRef Id="444441078"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="3453203440" Name="EnemySpawn" MaxAttenuation="20" DurationType="OneShot" DurationMin="0.57469386" DurationMax="0.57469386">
+					<MediaRefs>
+						<MediaRef Id="246000459"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="2525052962" Name="PlayerDash" MaxAttenuation="20" DurationType="OneShot" DurationMin="0.28734693" DurationMax="0.28734693">
+					<MediaRefs>
+						<MediaRef Id="918081918"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="3537581393" Name="PlayerHurt" MaxAttenuation="20" DurationType="OneShot" DurationMin="0.28734693" DurationMax="0.28734693">
+					<MediaRefs>
+						<MediaRef Id="77402644"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="1723908598" Name="RifleShoot" MaxAttenuation="20" DurationType="OneShot" DurationMin="0.41795918" DurationMax="0.41795918">
+					<MediaRefs>
+						<MediaRef Id="27056504"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="3217502486" Name="RocketExplore" MaxAttenuation="20" DurationType="OneShot" DurationMin="0.41795918" DurationMax="0.41795918">
+					<MediaRefs>
+						<MediaRef Id="157789356"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="1112365134" Name="RocketShoot" MaxAttenuation="20" DurationType="OneShot" DurationMin="0.57469386" DurationMax="0.57469386">
+					<MediaRefs>
+						<MediaRef Id="116182204"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="2431883729" Name="SniperShoot" MaxAttenuation="20" DurationType="OneShot" DurationMin="0.8620408" DurationMax="0.8620408">
+					<MediaRefs>
+						<MediaRef Id="580627807"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="3314129701" Name="SwitchWeapon" MaxAttenuation="20" DurationType="OneShot" DurationMin="0.44408163" DurationMax="0.44408163">
+					<MediaRefs>
+						<MediaRef Id="987720602"/>
+					</MediaRefs>
+				</Event>
+			</Events>
+		</SoundBank>
+		<SoundBank Id="1355168291" Type="User" Language="SFX" Hash="{4A3CBC26-C7B7-87A0-76F1-3CC94903C34C}">
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+			<Plugins>
+				<AudioDevices>
+					<Plugin Id="2317455096" Name="No_Output" LibName="No Output" LibId="11862023"/>
+					<Plugin Id="3859886410" Name="System" LibName="System" LibId="11403271"/>
+				</AudioDevices>
+			</Plugins>
+			<Busses>
+				<Bus Id="393239870" Name="sfx"/>
+				<Bus Id="1534528548" Name="vo"/>
+				<Bus Id="3803692087" Name="Master Audio Bus"/>
+				<Bus Id="3991942870" Name="music"/>
+			</Busses>
+		</SoundBank>
+	</SoundBanks>
+	<FileHash>{9F8E2067-D084-0D61-5C16-48FA241D63B6}</FileHash>
+</SoundBanksInfo>

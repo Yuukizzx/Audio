@@ -1,0 +1,26 @@
+Event	ID	Name			Wwise Object Path	Notes
+	208556064	EnemyHurt			\Default Work Unit\EnemyHurt	
+	794424115	EnemyDie			\Default Work Unit\EnemyDie	
+	1112365134	RocketShoot			\Default Work Unit\RocketShoot	
+	1723908598	RifleShoot			\Default Work Unit\RifleShoot	
+	2431883729	SniperShoot			\Default Work Unit\SniperShoot	
+	2446068219	EnemyFire			\Default Work Unit\EnemyFire	
+	2525052962	PlayerDash			\Default Work Unit\PlayerDash	
+	3217502486	RocketExplore			\Default Work Unit\RocketExplore	
+	3314129701	SwitchWeapon			\Default Work Unit\SwitchWeapon	
+	3453203440	EnemySpawn			\Default Work Unit\EnemySpawn	
+	3537581393	PlayerHurt			\Default Work Unit\PlayerHurt	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	27056504	RifleShoot	D:\Data\Work\UnityProject\Audio\DEV_WwiseProject\.cache\Windows\SFX\RifleShoot_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\char\shoot\RifleShoot		73824
+	36179741	EnemyDie	D:\Data\Work\UnityProject\Audio\DEV_WwiseProject\.cache\Windows\SFX\EnemyDie_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\enemy\EnemyDie		78432
+	77402644	PlayerHurt	D:\Data\Work\UnityProject\Audio\DEV_WwiseProject\.cache\Windows\SFX\PlayerHurt_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\char\action\PlayerHurt		50784
+	116182204	RocketShoot	D:\Data\Work\UnityProject\Audio\DEV_WwiseProject\.cache\Windows\SFX\RocketShoot_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\char\shoot\RocketShoot		101472
+	157789356	RocketExplore	D:\Data\Work\UnityProject\Audio\DEV_WwiseProject\.cache\Windows\SFX\RocketExplore_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\char\shoot\RocketExplore		73824
+	246000459	EnemySpawn	D:\Data\Work\UnityProject\Audio\DEV_WwiseProject\.cache\Windows\SFX\EnemySpawn_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\enemy\EnemySpawn		101472
+	444441078	EnemyHurt	D:\Data\Work\UnityProject\Audio\DEV_WwiseProject\.cache\Windows\SFX\EnemyHurt_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\enemy\EnemyHurt		32352
+	580627807	SniperShoot	D:\Data\Work\UnityProject\Audio\DEV_WwiseProject\.cache\Windows\SFX\SniperShoot_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\char\shoot\SniperShoot		152160
+	918081918	PlayerDash	D:\Data\Work\UnityProject\Audio\DEV_WwiseProject\.cache\Windows\SFX\PlayerDash_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\char\action\PlayerDash		50784
+	918775500	EnemyFire	D:\Data\Work\UnityProject\Audio\DEV_WwiseProject\.cache\Windows\SFX\EnemyFire_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\enemy\EnemyFire		78432
+	987720602	SwitchWeapon	D:\Data\Work\UnityProject\Audio\DEV_WwiseProject\.cache\Windows\SFX\SwitchWeapon_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\char\action\SwitchWeapon		78432
+

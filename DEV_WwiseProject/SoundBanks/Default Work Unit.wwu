@@ -1,6 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <WwiseDocument Type="WorkUnit" ID="{646668BF-484C-4890-97CE-3A35D81AABF0}" SchemaVersion="119">
 	<SoundBanks>
-		<WorkUnit Name="Default Work Unit" ID="{646668BF-484C-4890-97CE-3A35D81AABF0}" PersistMode="Standalone"/>
+		<WorkUnit Name="Default Work Unit" ID="{646668BF-484C-4890-97CE-3A35D81AABF0}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundBank Name="All" ID="{C866C0CE-7DA8-4732-A071-B5A6AFF9E564}">
+					<ObjectInclusionList>
+						<ObjectRef Name="EnemyFire" ID="{592E1B29-3306-4405-AA55-BACB876287CF}" WorkUnitID="{5A850A77-7B82-40B9-A1F2-97016EC7A2C3}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="SwitchWeapon" ID="{E51A0A89-372B-44F6-BA9E-F788449C0890}" WorkUnitID="{5A850A77-7B82-40B9-A1F2-97016EC7A2C3}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="EnemySpawn" ID="{1E22953D-7073-4524-87AC-C50DFFDCDFA5}" WorkUnitID="{5A850A77-7B82-40B9-A1F2-97016EC7A2C3}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="SniperShoot" ID="{2AA18D5F-74DB-483D-ABEC-6B61545AE382}" WorkUnitID="{5A850A77-7B82-40B9-A1F2-97016EC7A2C3}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="RocketExplore" ID="{475A561B-04E1-4991-B21B-08782F8779D9}" WorkUnitID="{5A850A77-7B82-40B9-A1F2-97016EC7A2C3}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="RifleShoot" ID="{7AA1DB48-F711-4994-BD3A-CC6120ACC22A}" WorkUnitID="{5A850A77-7B82-40B9-A1F2-97016EC7A2C3}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="EnemyHurt" ID="{F920D1DA-CA47-4AAC-962F-56B4A527BBDC}" WorkUnitID="{5A850A77-7B82-40B9-A1F2-97016EC7A2C3}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="EnemyDie" ID="{FEC35118-EE40-4AF0-8A9B-37FE3E27C08B}" WorkUnitID="{5A850A77-7B82-40B9-A1F2-97016EC7A2C3}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="PlayerDash" ID="{46F7D04E-3A1D-4BC0-A9E6-9443D09CD546}" WorkUnitID="{5A850A77-7B82-40B9-A1F2-97016EC7A2C3}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="RocketShoot" ID="{5F6818CB-3562-4CC6-9856-AC067388FDEC}" WorkUnitID="{5A850A77-7B82-40B9-A1F2-97016EC7A2C3}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="PlayerHurt" ID="{D52E8D6B-56F1-4D84-84BC-F4CDCAC06A62}" WorkUnitID="{5A850A77-7B82-40B9-A1F2-97016EC7A2C3}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+			</ChildrenList>
+		</WorkUnit>
 	</SoundBanks>
 </WwiseDocument>

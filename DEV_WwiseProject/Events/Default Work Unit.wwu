@@ -1,6 +1,130 @@
 <?xml version="1.0" encoding="utf-8"?>
 <WwiseDocument Type="WorkUnit" ID="{5A850A77-7B82-40B9-A1F2-97016EC7A2C3}" SchemaVersion="119">
 	<Events>
-		<WorkUnit Name="Default Work Unit" ID="{5A850A77-7B82-40B9-A1F2-97016EC7A2C3}" PersistMode="Standalone"/>
+		<WorkUnit Name="Default Work Unit" ID="{5A850A77-7B82-40B9-A1F2-97016EC7A2C3}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="PlayerDash" ID="{46F7D04E-3A1D-4BC0-A9E6-9443D09CD546}">
+					<ChildrenList>
+						<Action Name="" ID="{8724BD2C-8EB8-4008-B774-95D07BDF9300}" ShortID="533933540">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="PlayerDash" ID="{BE2D73C0-1FA0-4F2B-B273-CC4AC7DA4368}" WorkUnitID="{BE6D6125-B7A0-42D2-BBC2-4FC751891A42}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="PlayerHurt" ID="{D52E8D6B-56F1-4D84-84BC-F4CDCAC06A62}">
+					<ChildrenList>
+						<Action Name="" ID="{BCDFED1C-FDF9-444F-824C-7B1D359E8B8F}" ShortID="1033639915">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="PlayerHurt" ID="{B17EFEA4-3660-4CDC-9823-4C4CF6FDFD06}" WorkUnitID="{BE6D6125-B7A0-42D2-BBC2-4FC751891A42}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="SwitchWeapon" ID="{E51A0A89-372B-44F6-BA9E-F788449C0890}">
+					<ChildrenList>
+						<Action Name="" ID="{F6FFF290-D252-425E-AB2A-7E09355EA729}" ShortID="210456183">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="SwitchWeapon" ID="{5A7F32EE-E847-4E2E-8EE8-28B0B78E61BD}" WorkUnitID="{BE6D6125-B7A0-42D2-BBC2-4FC751891A42}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="RifleShoot" ID="{7AA1DB48-F711-4994-BD3A-CC6120ACC22A}">
+					<ChildrenList>
+						<Action Name="" ID="{6F40A530-2670-4665-9E33-9772BD6478D8}" ShortID="465502156">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="RifleShoot" ID="{8F5C6B45-D8D9-44B3-BFDE-C3DBA61E6841}" WorkUnitID="{BE6D6125-B7A0-42D2-BBC2-4FC751891A42}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="RocketExplore" ID="{475A561B-04E1-4991-B21B-08782F8779D9}">
+					<ChildrenList>
+						<Action Name="" ID="{855AB3C6-2CAB-4405-8285-10CDE0EF33A4}" ShortID="508404965">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="RocketExplore" ID="{8D54BF74-F96A-45D8-A63E-4C79DD077BAD}" WorkUnitID="{BE6D6125-B7A0-42D2-BBC2-4FC751891A42}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="RocketShoot" ID="{5F6818CB-3562-4CC6-9856-AC067388FDEC}">
+					<ChildrenList>
+						<Action Name="" ID="{BA46F3C5-3FA1-4D96-A935-E3D4B6F36361}" ShortID="119308624">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="RocketShoot" ID="{490A6810-1B91-431E-9425-2AFE646D695A}" WorkUnitID="{BE6D6125-B7A0-42D2-BBC2-4FC751891A42}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="SniperShoot" ID="{2AA18D5F-74DB-483D-ABEC-6B61545AE382}">
+					<ChildrenList>
+						<Action Name="" ID="{C0C399A4-D3E4-4AE5-B24A-65EDBB8E4F1F}" ShortID="789694606">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="SniperShoot" ID="{8307A9B1-E519-4DC1-A11E-395DAAC3BF6C}" WorkUnitID="{BE6D6125-B7A0-42D2-BBC2-4FC751891A42}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="EnemyDie" ID="{FEC35118-EE40-4AF0-8A9B-37FE3E27C08B}">
+					<ChildrenList>
+						<Action Name="" ID="{E34C8DB0-B242-42DC-B491-D08E5E694925}" ShortID="1043344731">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="EnemyDie" ID="{9CF748F1-A929-47BC-8DDA-D0CB08EBB86B}" WorkUnitID="{BE6D6125-B7A0-42D2-BBC2-4FC751891A42}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="EnemyFire" ID="{592E1B29-3306-4405-AA55-BACB876287CF}">
+					<ChildrenList>
+						<Action Name="" ID="{9421676D-69B5-41D8-848C-7780D13734EA}" ShortID="224274301">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="EnemyFire" ID="{6F9A0725-DFB4-4199-9A8C-27B853EAE7DC}" WorkUnitID="{BE6D6125-B7A0-42D2-BBC2-4FC751891A42}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="EnemyHurt" ID="{F920D1DA-CA47-4AAC-962F-56B4A527BBDC}">
+					<ChildrenList>
+						<Action Name="" ID="{610D2C66-82BB-4A50-B077-7C814703D164}" ShortID="229862486">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="EnemyHurt" ID="{C7A26108-9CB8-435E-883A-5CBFE8AD3616}" WorkUnitID="{BE6D6125-B7A0-42D2-BBC2-4FC751891A42}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="EnemySpawn" ID="{1E22953D-7073-4524-87AC-C50DFFDCDFA5}">
+					<ChildrenList>
+						<Action Name="" ID="{0C3B469F-A137-48C9-9330-320EFA472A36}" ShortID="809117062">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="EnemySpawn" ID="{5194B5C1-ED1A-4D41-9113-AF5F0F999FE6}" WorkUnitID="{BE6D6125-B7A0-42D2-BBC2-4FC751891A42}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
 	</Events>
 </WwiseDocument>
