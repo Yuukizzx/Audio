@@ -1,6 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <WwiseDocument Type="WorkUnit" ID="{2F34F2F7-C9DC-4873-AE57-5AC8C10A9657}" SchemaVersion="119">
 	<SoundcasterSessions>
-		<WorkUnit Name="Default Work Unit" ID="{2F34F2F7-C9DC-4873-AE57-5AC8C10A9657}" PersistMode="Standalone"/>
+		<WorkUnit Name="Default Work Unit" ID="{2F34F2F7-C9DC-4873-AE57-5AC8C10A9657}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundcasterSession Name="New Soundcaster Session" ID="{192742A9-8C0E-401A-8759-9E0FABAEF9AD}">
+					<ModuleList>
+						<Module>
+							<ObjectRef Name="music_play" ID="{8AC3B01C-C13F-4C67-A22C-804E8601C71C}" WorkUnitID="{5A850A77-7B82-40B9-A1F2-97016EC7A2C3}"/>
+							<Position X="0" Y="0"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="music_play_A" ID="{7E70F52E-06F9-4D9C-B93E-698A7DE93F34}" WorkUnitID="{5A850A77-7B82-40B9-A1F2-97016EC7A2C3}"/>
+							<Position X="1" Y="0"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="music_play_B" ID="{AA62D392-FDBB-4D37-9B9D-A288ACC66057}" WorkUnitID="{5A850A77-7B82-40B9-A1F2-97016EC7A2C3}"/>
+							<Position X="2" Y="0"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="music_play_C" ID="{3C196C1D-C7CA-47A4-B284-475AC58147BB}" WorkUnitID="{5A850A77-7B82-40B9-A1F2-97016EC7A2C3}"/>
+							<Position X="3" Y="0"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="music_play_Default" ID="{946AC808-503D-4888-BBC6-D10049F9BC30}" WorkUnitID="{5A850A77-7B82-40B9-A1F2-97016EC7A2C3}"/>
+							<Position X="4" Y="0"/>
+						</Module>
+					</ModuleList>
+					<RTPCValueList ShowAll="true"/>
+					<CurrentStateList ShowAll="true">
+						<CurrentStateRef Name="music_c" ID="{DA5B2B42-52CA-4D5F-BD08-D4CE58F374A0}"/>
+					</CurrentStateList>
+					<CurrentSwitchList ShowAll="true">
+						<CurrentSwitchRef Name="New_Switch_01" ID="{D24FBB7E-71A4-4B4D-929D-350B3A72B380}"/>
+					</CurrentSwitchList>
+				</SoundcasterSession>
+			</ChildrenList>
+		</WorkUnit>
 	</SoundcasterSessions>
 </WwiseDocument>

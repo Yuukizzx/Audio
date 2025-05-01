@@ -124,6 +124,73 @@
 						</Action>
 					</ChildrenList>
 				</Event>
+				<Event Name="music_play" ID="{8AC3B01C-C13F-4C67-A22C-804E8601C71C}">
+					<ChildrenList>
+						<Action Name="" ID="{17FC713E-3837-488C-83D3-AB706A312EA7}" ShortID="816046960">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="CHIP_baseloop" ID="{90A71E64-FD5F-45EE-AD18-493C85AD1357}" WorkUnitID="{4A9DA32A-C33A-41DC-9A2E-ADF390C9175C}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="music_play_A" ID="{7E70F52E-06F9-4D9C-B93E-698A7DE93F34}">
+					<ChildrenList>
+						<Action Name="" ID="{BA044C11-835E-4F3C-8014-C3BFA2914545}" ShortID="342716625">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="22"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="music_a" ID="{51D75837-2F94-41C0-92F7-22CE7E2AA34B}" WorkUnitID="{AE195DDE-B556-4CF3-948A-2AF50363870D}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="music_play_B" ID="{AA62D392-FDBB-4D37-9B9D-A288ACC66057}">
+					<ChildrenList>
+						<Action Name="" ID="{6ACFA58F-8369-4661-8C16-B6B462A33C89}" ShortID="1003426874">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="22"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="music_b" ID="{247BEF1D-1B6F-49FB-9410-8AC6CEA6C96B}" WorkUnitID="{AE195DDE-B556-4CF3-948A-2AF50363870D}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="music_play_C" ID="{3C196C1D-C7CA-47A4-B284-475AC58147BB}">
+					<ChildrenList>
+						<Action Name="" ID="{E9A75CBE-7B6F-45FB-90A0-A050CA21DEB7}" ShortID="1053115324">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="22"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="music_c" ID="{DA5B2B42-52CA-4D5F-BD08-D4CE58F374A0}" WorkUnitID="{AE195DDE-B556-4CF3-948A-2AF50363870D}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="music_play_Default" ID="{946AC808-503D-4888-BBC6-D10049F9BC30}">
+					<ChildrenList>
+						<Action Name="" ID="{AD9A7602-29EF-49E0-9B5F-B65468659AAF}" ShortID="263597264">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="22"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="music_default" ID="{8F4285F1-797A-4659-BE2B-4CE984D45D3D}" WorkUnitID="{AE195DDE-B556-4CF3-948A-2AF50363870D}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
 			</ChildrenList>
 		</WorkUnit>
 	</Events>

@@ -9,7 +9,7 @@
 	</RootPaths>
 	<DialogueEvents/>
 	<SoundBanks>
-		<SoundBank Id="1100754030" Type="User" Language="SFX" Hash="{F16A23C3-28BA-CAFD-A5E3-5B1F2F47E023}">
+		<SoundBank Id="1100754030" Type="User" Language="SFX" Hash="{DEE408BD-0DF3-CDFA-6002-12FB8F1A594E}">
 			<ShortName>All</ShortName>
 			<Path>All.bnk</Path>
 			<Media>
@@ -37,13 +37,25 @@
 					<ShortName>EnemySpawn.wav</ShortName>
 					<CachePath>SFX/EnemySpawn_818F3B66.wem</CachePath>
 				</File>
+				<File Id="402274307" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>CHIP1_C3.wav</ShortName>
+					<CachePath>SFX/CHIP1_C3_FBC78EF0.wem</CachePath>
+				</File>
 				<File Id="444441078" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>EnemyHurt.wav</ShortName>
 					<CachePath>SFX/EnemyHurt_818F3B66.wem</CachePath>
 				</File>
+				<File Id="572995785" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>CHIP1_B.wav</ShortName>
+					<CachePath>SFX/CHIP1_B_FBC78EF0.wem</CachePath>
+				</File>
 				<File Id="580627807" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>SniperShoot.wav</ShortName>
 					<CachePath>SFX/SniperShoot_818F3B66.wem</CachePath>
+				</File>
+				<File Id="869757563" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>CHIP1_A.wav</ShortName>
+					<CachePath>SFX/CHIP1_A_FBC78EF0.wem</CachePath>
 				</File>
 				<File Id="918081918" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>PlayerDash.wav</ShortName>
@@ -52,6 +64,11 @@
 				<File Id="918775500" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>EnemyFire.wav</ShortName>
 					<CachePath>SFX/EnemyFire_818F3B66.wem</CachePath>
+				</File>
+				<File Id="941559825" Language="SFX" Streaming="true" Location="Loose">
+					<ShortName>CHIP_baseloop.wav</ShortName>
+					<Path>Media/941559825.wem</Path>
+					<CachePath>SFX/CHIP_baseloop_FBC78EF0.wem</CachePath>
 				</File>
 				<File Id="987720602" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>SwitchWeapon.wav</ShortName>
@@ -78,6 +95,34 @@
 					<MediaRefs>
 						<MediaRef Id="246000459"/>
 					</MediaRefs>
+				</Event>
+				<Event Id="202194903" Name="music_play" DurationType="Infinite">
+					<MediaRefs>
+						<MediaRef Id="402274307"/>
+						<MediaRef Id="572995785"/>
+						<MediaRef Id="869757563"/>
+						<MediaRef Id="941559825"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="1619603327" Name="music_play_A" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0">
+					<ActionSetState>
+						<ActionSetStateEntry GroupId="3991942870" Id="508837862" Name="music_a"/>
+					</ActionSetState>
+				</Event>
+				<Event Id="1619603324" Name="music_play_B" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0">
+					<ActionSetState>
+						<ActionSetStateEntry GroupId="3991942870" Id="508837861" Name="music_b"/>
+					</ActionSetState>
+				</Event>
+				<Event Id="1619603325" Name="music_play_C" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0">
+					<ActionSetState>
+						<ActionSetStateEntry GroupId="3991942870" Id="508837860" Name="music_c"/>
+					</ActionSetState>
+				</Event>
+				<Event Id="3238402545" Name="music_play_Default" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0">
+					<ActionSetState>
+						<ActionSetStateEntry GroupId="3991942870" Id="1927040848" Name="music_default"/>
+					</ActionSetState>
 				</Event>
 				<Event Id="2525052962" Name="PlayerDash" MaxAttenuation="20" DurationType="OneShot" DurationMin="0.28734693" DurationMax="0.28734693">
 					<MediaRefs>
@@ -115,8 +160,19 @@
 					</MediaRefs>
 				</Event>
 			</Events>
+			<StateGroups>
+				<StateGroup Id="3991942870" Name="music">
+					<States>
+						<State Id="508837860" Name="music_c"/>
+						<State Id="508837861" Name="music_b"/>
+						<State Id="508837862" Name="music_a"/>
+						<State Id="748895195" Name="None"/>
+						<State Id="1927040848" Name="music_default"/>
+					</States>
+				</StateGroup>
+			</StateGroups>
 		</SoundBank>
-		<SoundBank Id="1355168291" Type="User" Language="SFX" Hash="{09DF1B28-6E17-D05A-B873-259332A1E060}">
+		<SoundBank Id="1355168291" Type="User" Language="SFX" Hash="{1557C877-3109-3DF8-3E51-C05FE74F3B43}">
 			<ShortName>Init</ShortName>
 			<Path>Init.bnk</Path>
 			<Plugins>
@@ -131,7 +187,27 @@
 				<Bus Id="3803692087" Name="Master Audio Bus"/>
 				<Bus Id="3991942870" Name="music"/>
 			</Busses>
+			<StateGroups>
+				<StateGroup Id="3991942870" Name="music">
+					<States>
+						<State Id="508837860" Name="music_c"/>
+						<State Id="508837861" Name="music_b"/>
+						<State Id="508837862" Name="music_a"/>
+						<State Id="748895195" Name="None"/>
+						<State Id="1927040848" Name="music_default"/>
+					</States>
+				</StateGroup>
+			</StateGroups>
+			<SwitchGroups>
+				<SwitchGroup Id="3991942870" Name="music">
+					<Switches>
+						<Switch Id="1914034948" Name="New_Switch"/>
+						<Switch Id="3952450473" Name="New_Switch_02"/>
+						<Switch Id="3952450474" Name="New_Switch_01"/>
+					</Switches>
+				</SwitchGroup>
+			</SwitchGroups>
 		</SoundBank>
 	</SoundBanks>
-	<FileHash>{AAC13335-6379-B21C-E26F-11E876CDBA71}</FileHash>
+	<FileHash>{9E2B4604-030F-B9BC-BB21-F9D7258D645F}</FileHash>
 </SoundBanksInfo>
