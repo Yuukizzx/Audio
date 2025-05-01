@@ -9,7 +9,8 @@
 	</RootPaths>
 	<DialogueEvents/>
 	<SoundBanks>
-		<SoundBank Id="1100754030" Type="User" Language="SFX" Hash="{9B1C15CC-F56F-D1B2-FA20-80DFE452B55C}">
+		<SoundBank Id="1100754030" Type="User" GUID="{C866C0CE-7DA8-4732-A071-B5A6AFF9E564}" Language="SFX" Hash="{81B9F60A-5569-C37A-FEC9-9ED4FDF86AA1}">
+			<ObjectPath>\SoundBanks\Default Work Unit\All</ObjectPath>
 			<ShortName>All</ShortName>
 			<Path>All.bnk</Path>
 			<Media>
@@ -76,27 +77,27 @@
 				</File>
 			</Media>
 			<Events>
-				<Event Id="794424115" Name="EnemyDie" MaxAttenuation="20" DurationType="OneShot" DurationMin="0.44408163" DurationMax="0.44408163">
+				<Event Id="794424115" Name="EnemyDie" ObjectPath="\Events\Default Work Unit\EnemyDie" GUID="{FEC35118-EE40-4AF0-8A9B-37FE3E27C08B}" MaxAttenuation="20" DurationType="OneShot" DurationMin="0.44408163" DurationMax="0.44408163">
 					<MediaRefs>
 						<MediaRef Id="36179741"/>
 					</MediaRefs>
 				</Event>
-				<Event Id="2446068219" Name="EnemyFire" MaxAttenuation="20" DurationType="OneShot" DurationMin="0.44408163" DurationMax="0.44408163">
+				<Event Id="2446068219" Name="EnemyFire" ObjectPath="\Events\Default Work Unit\EnemyFire" GUID="{592E1B29-3306-4405-AA55-BACB876287CF}" MaxAttenuation="20" DurationType="OneShot" DurationMin="0.44408163" DurationMax="0.44408163">
 					<MediaRefs>
 						<MediaRef Id="918775500"/>
 					</MediaRefs>
 				</Event>
-				<Event Id="208556064" Name="EnemyHurt" MaxAttenuation="20" DurationType="OneShot" DurationMin="0.18285714" DurationMax="0.18285714">
+				<Event Id="208556064" Name="EnemyHurt" ObjectPath="\Events\Default Work Unit\EnemyHurt" GUID="{F920D1DA-CA47-4AAC-962F-56B4A527BBDC}" MaxAttenuation="20" DurationType="OneShot" DurationMin="0.18285714" DurationMax="0.18285714">
 					<MediaRefs>
 						<MediaRef Id="444441078"/>
 					</MediaRefs>
 				</Event>
-				<Event Id="3453203440" Name="EnemySpawn" MaxAttenuation="20" DurationType="OneShot" DurationMin="0.57469386" DurationMax="0.57469386">
+				<Event Id="3453203440" Name="EnemySpawn" ObjectPath="\Events\Default Work Unit\EnemySpawn" GUID="{1E22953D-7073-4524-87AC-C50DFFDCDFA5}" MaxAttenuation="20" DurationType="OneShot" DurationMin="0.57469386" DurationMax="0.57469386">
 					<MediaRefs>
 						<MediaRef Id="246000459"/>
 					</MediaRefs>
 				</Event>
-				<Event Id="202194903" Name="music_play" DurationType="Infinite">
+				<Event Id="202194903" Name="music_play" ObjectPath="\Events\Default Work Unit\music_play" GUID="{8AC3B01C-C13F-4C67-A22C-804E8601C71C}" DurationType="Infinite">
 					<MediaRefs>
 						<MediaRef Id="402274307"/>
 						<MediaRef Id="572995785"/>
@@ -104,153 +105,155 @@
 						<MediaRef Id="941559825"/>
 					</MediaRefs>
 				</Event>
-				<Event Id="1619603327" Name="music_play_A" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0">
+				<Event Id="1619603327" Name="music_play_A" ObjectPath="\Events\Default Work Unit\music_play_A" GUID="{7E70F52E-06F9-4D9C-B93E-698A7DE93F34}" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0">
 					<ActionSetState>
-						<ActionSetStateEntry GroupId="1053978790" Id="1053978790" Name="buff_A"/>
+						<ActionSetStateEntry GroupId="1053978790" Id="1053978790" Name="buff_A" ObjectPath="\States\Default Work Unit\buff_A\buff_A" GUID="{C9FA8221-B497-4999-BB4C-623FE3D8C90D}"/>
 					</ActionSetState>
 				</Event>
-				<Event Id="1619603324" Name="music_play_B" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0">
+				<Event Id="1619603324" Name="music_play_B" ObjectPath="\Events\Default Work Unit\music_play_B" GUID="{AA62D392-FDBB-4D37-9B9D-A288ACC66057}" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0">
 					<ActionSetState>
-						<ActionSetStateEntry GroupId="1053978789" Id="1053978789" Name="buff_B"/>
+						<ActionSetStateEntry GroupId="1053978789" Id="1053978789" Name="buff_B" ObjectPath="\States\Default Work Unit\buff_B\buff_B" GUID="{9A1DDD4E-7A05-44FD-893A-4E05E745C590}"/>
 					</ActionSetState>
 				</Event>
-				<Event Id="1619603325" Name="music_play_C" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0">
+				<Event Id="1619603325" Name="music_play_C" ObjectPath="\Events\Default Work Unit\music_play_C" GUID="{3C196C1D-C7CA-47A4-B284-475AC58147BB}" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0">
 					<ActionSetState>
-						<ActionSetStateEntry GroupId="1053978788" Id="1053978788" Name="buff_C"/>
+						<ActionSetStateEntry GroupId="1053978788" Id="1053978788" Name="buff_C" ObjectPath="\States\Default Work Unit\buff_C\buff_C" GUID="{6F3C5EF2-F015-4022-82DE-AA834CBD53A2}"/>
 					</ActionSetState>
 				</Event>
-				<Event Id="1393667809" Name="music_stop_A" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0">
+				<Event Id="3227181061" Name="music_stop" ObjectPath="\Events\Default Work Unit\music_stop" GUID="{6CB44147-2017-40C9-8C5D-F871443C26B4}" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0"/>
+				<Event Id="1393667809" Name="music_stop_A" ObjectPath="\Events\Default Work Unit\music_stop_A" GUID="{4B396006-5FAE-470B-B3C2-E65E40AF4801}" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0">
 					<ActionSetState>
-						<ActionSetStateEntry GroupId="1053978790" Id="1628630709" Name="buff_A_stop"/>
+						<ActionSetStateEntry GroupId="1053978790" Id="1628630709" Name="buff_A_stop" ObjectPath="\States\Default Work Unit\buff_A\buff_A_stop" GUID="{8C5DAA90-EDC7-4BC5-A6D3-A325EBF5F2B3}"/>
 					</ActionSetState>
 				</Event>
-				<Event Id="1393667810" Name="music_stop_B" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0">
+				<Event Id="1393667810" Name="music_stop_B" ObjectPath="\Events\Default Work Unit\music_stop_B" GUID="{5879E4AA-AAF2-4AA5-BFDE-5CF6DDB55C15}" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0">
 					<ActionSetState>
-						<ActionSetStateEntry GroupId="1053978789" Id="139899368" Name="buff_B_stop"/>
+						<ActionSetStateEntry GroupId="1053978789" Id="139899368" Name="buff_B_stop" ObjectPath="\States\Default Work Unit\buff_B\buff_B_stop" GUID="{3CB82F8E-7BF2-4E9F-8A2F-50C10BEB6A00}"/>
 					</ActionSetState>
 				</Event>
-				<Event Id="1393667811" Name="music_stop_C" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0">
+				<Event Id="1393667811" Name="music_stop_C" ObjectPath="\Events\Default Work Unit\music_stop_C" GUID="{3409A410-DF1C-4A66-A6BC-6F1106391F08}" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0">
 					<ActionSetState>
-						<ActionSetStateEntry GroupId="1053978788" Id="3870036419" Name="buff_C_stop"/>
+						<ActionSetStateEntry GroupId="1053978788" Id="3870036419" Name="buff_C_stop" ObjectPath="\States\Default Work Unit\buff_C\buff_C_stop" GUID="{E2FE1734-E52D-4587-A7E3-D895FE5FFAC3}"/>
 					</ActionSetState>
 				</Event>
-				<Event Id="2525052962" Name="PlayerDash" MaxAttenuation="20" DurationType="OneShot" DurationMin="0.28734693" DurationMax="0.28734693">
+				<Event Id="2525052962" Name="PlayerDash" ObjectPath="\Events\Default Work Unit\PlayerDash" GUID="{46F7D04E-3A1D-4BC0-A9E6-9443D09CD546}" MaxAttenuation="20" DurationType="OneShot" DurationMin="0.28734693" DurationMax="0.28734693">
 					<MediaRefs>
 						<MediaRef Id="918081918"/>
 					</MediaRefs>
 				</Event>
-				<Event Id="3537581393" Name="PlayerHurt" MaxAttenuation="20" DurationType="OneShot" DurationMin="0.28734693" DurationMax="0.28734693">
+				<Event Id="3537581393" Name="PlayerHurt" ObjectPath="\Events\Default Work Unit\PlayerHurt" GUID="{D52E8D6B-56F1-4D84-84BC-F4CDCAC06A62}" MaxAttenuation="20" DurationType="OneShot" DurationMin="0.28734693" DurationMax="0.28734693">
 					<MediaRefs>
 						<MediaRef Id="77402644"/>
 					</MediaRefs>
 				</Event>
-				<Event Id="1723908598" Name="RifleShoot" MaxAttenuation="20" DurationType="OneShot" DurationMin="0.41795918" DurationMax="0.41795918">
+				<Event Id="1723908598" Name="RifleShoot" ObjectPath="\Events\Default Work Unit\RifleShoot" GUID="{7AA1DB48-F711-4994-BD3A-CC6120ACC22A}" MaxAttenuation="20" DurationType="OneShot" DurationMin="0.41795918" DurationMax="0.41795918">
 					<MediaRefs>
 						<MediaRef Id="27056504"/>
 					</MediaRefs>
 				</Event>
-				<Event Id="3217502486" Name="RocketExplore" MaxAttenuation="20" DurationType="OneShot" DurationMin="0.41795918" DurationMax="0.41795918">
+				<Event Id="3217502486" Name="RocketExplore" ObjectPath="\Events\Default Work Unit\RocketExplore" GUID="{475A561B-04E1-4991-B21B-08782F8779D9}" MaxAttenuation="20" DurationType="OneShot" DurationMin="0.41795918" DurationMax="0.41795918">
 					<MediaRefs>
 						<MediaRef Id="157789356"/>
 					</MediaRefs>
 				</Event>
-				<Event Id="1112365134" Name="RocketShoot" MaxAttenuation="20" DurationType="OneShot" DurationMin="0.57469386" DurationMax="0.57469386">
+				<Event Id="1112365134" Name="RocketShoot" ObjectPath="\Events\Default Work Unit\RocketShoot" GUID="{5F6818CB-3562-4CC6-9856-AC067388FDEC}" MaxAttenuation="20" DurationType="OneShot" DurationMin="0.57469386" DurationMax="0.57469386">
 					<MediaRefs>
 						<MediaRef Id="116182204"/>
 					</MediaRefs>
 				</Event>
-				<Event Id="2431883729" Name="SniperShoot" MaxAttenuation="20" DurationType="OneShot" DurationMin="0.8620408" DurationMax="0.8620408">
+				<Event Id="2431883729" Name="SniperShoot" ObjectPath="\Events\Default Work Unit\SniperShoot" GUID="{2AA18D5F-74DB-483D-ABEC-6B61545AE382}" MaxAttenuation="20" DurationType="OneShot" DurationMin="0.8620408" DurationMax="0.8620408">
 					<MediaRefs>
 						<MediaRef Id="580627807"/>
 					</MediaRefs>
 				</Event>
-				<Event Id="3314129701" Name="SwitchWeapon" MaxAttenuation="20" DurationType="OneShot" DurationMin="0.44408163" DurationMax="0.44408163">
+				<Event Id="3314129701" Name="SwitchWeapon" ObjectPath="\Events\Default Work Unit\SwitchWeapon" GUID="{E51A0A89-372B-44F6-BA9E-F788449C0890}" MaxAttenuation="20" DurationType="OneShot" DurationMin="0.44408163" DurationMax="0.44408163">
 					<MediaRefs>
 						<MediaRef Id="987720602"/>
 					</MediaRefs>
 				</Event>
 			</Events>
 			<StateGroups>
-				<StateGroup Id="1053978788" Name="buff_C">
+				<StateGroup Id="1053978788" Name="buff_C" ObjectPath="\States\Default Work Unit\buff_C" GUID="{7441F954-D3CB-42B0-906E-D99D077B3DF2}">
 					<States>
-						<State Id="748895195" Name="None"/>
-						<State Id="1053978788" Name="buff_C"/>
-						<State Id="3870036419" Name="buff_C_stop"/>
+						<State Id="748895195" Name="None" ObjectPath="\States\Default Work Unit\buff_C\None" GUID="{D9B60D0E-0473-446E-88E9-84CE92E8DFC6}"/>
+						<State Id="1053978788" Name="buff_C" ObjectPath="\States\Default Work Unit\buff_C\buff_C" GUID="{6F3C5EF2-F015-4022-82DE-AA834CBD53A2}"/>
+						<State Id="3870036419" Name="buff_C_stop" ObjectPath="\States\Default Work Unit\buff_C\buff_C_stop" GUID="{E2FE1734-E52D-4587-A7E3-D895FE5FFAC3}"/>
 					</States>
 				</StateGroup>
-				<StateGroup Id="1053978789" Name="buff_B">
+				<StateGroup Id="1053978789" Name="buff_B" ObjectPath="\States\Default Work Unit\buff_B" GUID="{0D452FC5-CB9A-4BEC-9D2A-D93FF0603E96}">
 					<States>
-						<State Id="139899368" Name="buff_B_stop"/>
-						<State Id="748895195" Name="None"/>
-						<State Id="1053978789" Name="buff_B"/>
+						<State Id="139899368" Name="buff_B_stop" ObjectPath="\States\Default Work Unit\buff_B\buff_B_stop" GUID="{3CB82F8E-7BF2-4E9F-8A2F-50C10BEB6A00}"/>
+						<State Id="748895195" Name="None" ObjectPath="\States\Default Work Unit\buff_B\None" GUID="{B41B44D5-F1FF-400E-B38D-48A6D219E236}"/>
+						<State Id="1053978789" Name="buff_B" ObjectPath="\States\Default Work Unit\buff_B\buff_B" GUID="{9A1DDD4E-7A05-44FD-893A-4E05E745C590}"/>
 					</States>
 				</StateGroup>
-				<StateGroup Id="1053978790" Name="buff_A">
+				<StateGroup Id="1053978790" Name="buff_A" ObjectPath="\States\Default Work Unit\buff_A" GUID="{625AC633-5278-4C5A-85D8-59C8EBC51CD7}">
 					<States>
-						<State Id="748895195" Name="None"/>
-						<State Id="1053978790" Name="buff_A"/>
-						<State Id="1628630709" Name="buff_A_stop"/>
+						<State Id="748895195" Name="None" ObjectPath="\States\Default Work Unit\buff_A\None" GUID="{3EAC3360-9A38-4784-B27A-88150BF7534F}"/>
+						<State Id="1053978790" Name="buff_A" ObjectPath="\States\Default Work Unit\buff_A\buff_A" GUID="{C9FA8221-B497-4999-BB4C-623FE3D8C90D}"/>
+						<State Id="1628630709" Name="buff_A_stop" ObjectPath="\States\Default Work Unit\buff_A\buff_A_stop" GUID="{8C5DAA90-EDC7-4BC5-A6D3-A325EBF5F2B3}"/>
 					</States>
 				</StateGroup>
 			</StateGroups>
 		</SoundBank>
-		<SoundBank Id="1355168291" Type="User" Language="SFX" Hash="{F06C28CE-11C5-41D4-3EBE-3C3A86C61EBE}">
+		<SoundBank Id="1355168291" Type="User" GUID="{701ECBBD-9C7B-4030-8CDB-749EE5D1C7B9}" Language="SFX" Hash="{F06C28CE-11C5-41D4-3EBE-3C3A86C61EBE}">
+			<ObjectPath>Init</ObjectPath>
 			<ShortName>Init</ShortName>
 			<Path>Init.bnk</Path>
 			<Plugins>
 				<AudioDevices>
-					<Plugin Id="2317455096" Name="No_Output" LibName="No Output" LibId="11862023"/>
-					<Plugin Id="3859886410" Name="System" LibName="System" LibId="11403271"/>
+					<Plugin Id="2317455096" Name="No_Output" ObjectPath="\Audio Devices\Default Work Unit\No_Output" GUID="{16E0BC15-1F12-43A4-A42D-E94E2642B62D}" LibName="No Output" LibId="11862023"/>
+					<Plugin Id="3859886410" Name="System" ObjectPath="\Audio Devices\Default Work Unit\System" GUID="{44138F26-B2B6-4263-9FF4-42A7A9D515CF}" LibName="System" LibId="11403271"/>
 				</AudioDevices>
 			</Plugins>
 			<Busses>
-				<Bus Id="393239870" Name="sfx"/>
-				<Bus Id="1534528548" Name="vo"/>
-				<Bus Id="3803692087" Name="Master Audio Bus"/>
-				<Bus Id="3991942870" Name="music"/>
+				<Bus Id="393239870" Name="sfx" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\sfx" GUID="{F684F680-1262-4BE9-BA5B-2BADBD9C5052}"/>
+				<Bus Id="1534528548" Name="vo" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\vo" GUID="{9E765854-838A-4DC5-BD27-27120020B55D}"/>
+				<Bus Id="3803692087" Name="Master Audio Bus" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus" GUID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}"/>
+				<Bus Id="3991942870" Name="music" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\music" GUID="{6564C96A-164C-4398-B5B9-2C89AEB74B0E}"/>
 			</Busses>
 			<StateGroups>
-				<StateGroup Id="1053978788" Name="buff_C">
+				<StateGroup Id="1053978788" Name="buff_C" ObjectPath="\States\Default Work Unit\buff_C" GUID="{7441F954-D3CB-42B0-906E-D99D077B3DF2}">
 					<States>
-						<State Id="748895195" Name="None"/>
-						<State Id="1053978788" Name="buff_C"/>
-						<State Id="3870036419" Name="buff_C_stop"/>
+						<State Id="748895195" Name="None" ObjectPath="\States\Default Work Unit\buff_C\None" GUID="{D9B60D0E-0473-446E-88E9-84CE92E8DFC6}"/>
+						<State Id="1053978788" Name="buff_C" ObjectPath="\States\Default Work Unit\buff_C\buff_C" GUID="{6F3C5EF2-F015-4022-82DE-AA834CBD53A2}"/>
+						<State Id="3870036419" Name="buff_C_stop" ObjectPath="\States\Default Work Unit\buff_C\buff_C_stop" GUID="{E2FE1734-E52D-4587-A7E3-D895FE5FFAC3}"/>
 					</States>
 				</StateGroup>
-				<StateGroup Id="1053978789" Name="buff_B">
+				<StateGroup Id="1053978789" Name="buff_B" ObjectPath="\States\Default Work Unit\buff_B" GUID="{0D452FC5-CB9A-4BEC-9D2A-D93FF0603E96}">
 					<States>
-						<State Id="139899368" Name="buff_B_stop"/>
-						<State Id="748895195" Name="None"/>
-						<State Id="1053978789" Name="buff_B"/>
+						<State Id="139899368" Name="buff_B_stop" ObjectPath="\States\Default Work Unit\buff_B\buff_B_stop" GUID="{3CB82F8E-7BF2-4E9F-8A2F-50C10BEB6A00}"/>
+						<State Id="748895195" Name="None" ObjectPath="\States\Default Work Unit\buff_B\None" GUID="{B41B44D5-F1FF-400E-B38D-48A6D219E236}"/>
+						<State Id="1053978789" Name="buff_B" ObjectPath="\States\Default Work Unit\buff_B\buff_B" GUID="{9A1DDD4E-7A05-44FD-893A-4E05E745C590}"/>
 					</States>
 				</StateGroup>
-				<StateGroup Id="1053978790" Name="buff_A">
+				<StateGroup Id="1053978790" Name="buff_A" ObjectPath="\States\Default Work Unit\buff_A" GUID="{625AC633-5278-4C5A-85D8-59C8EBC51CD7}">
 					<States>
-						<State Id="748895195" Name="None"/>
-						<State Id="1053978790" Name="buff_A"/>
-						<State Id="1628630709" Name="buff_A_stop"/>
+						<State Id="748895195" Name="None" ObjectPath="\States\Default Work Unit\buff_A\None" GUID="{3EAC3360-9A38-4784-B27A-88150BF7534F}"/>
+						<State Id="1053978790" Name="buff_A" ObjectPath="\States\Default Work Unit\buff_A\buff_A" GUID="{C9FA8221-B497-4999-BB4C-623FE3D8C90D}"/>
+						<State Id="1628630709" Name="buff_A_stop" ObjectPath="\States\Default Work Unit\buff_A\buff_A_stop" GUID="{8C5DAA90-EDC7-4BC5-A6D3-A325EBF5F2B3}"/>
 					</States>
 				</StateGroup>
-				<StateGroup Id="3991942870" Name="music">
+				<StateGroup Id="3991942870" Name="music" ObjectPath="\States\Default Work Unit\music" GUID="{820E28F8-A286-437D-8F13-59290927B2AD}">
 					<States>
-						<State Id="508837860" Name="music_c"/>
-						<State Id="508837861" Name="music_b"/>
-						<State Id="508837862" Name="music_a"/>
-						<State Id="748895195" Name="None"/>
-						<State Id="1927040848" Name="music_default"/>
+						<State Id="508837860" Name="music_c" ObjectPath="\States\Default Work Unit\music\music_c" GUID="{DA5B2B42-52CA-4D5F-BD08-D4CE58F374A0}"/>
+						<State Id="508837861" Name="music_b" ObjectPath="\States\Default Work Unit\music\music_b" GUID="{247BEF1D-1B6F-49FB-9410-8AC6CEA6C96B}"/>
+						<State Id="508837862" Name="music_a" ObjectPath="\States\Default Work Unit\music\music_a" GUID="{51D75837-2F94-41C0-92F7-22CE7E2AA34B}"/>
+						<State Id="748895195" Name="None" ObjectPath="\States\Default Work Unit\music\None" GUID="{F4742EBB-4235-42EB-A971-270B6C2518D9}"/>
+						<State Id="1927040848" Name="music_default" ObjectPath="\States\Default Work Unit\music\music_default" GUID="{8F4285F1-797A-4659-BE2B-4CE984D45D3D}"/>
 					</States>
 				</StateGroup>
 			</StateGroups>
 			<SwitchGroups>
-				<SwitchGroup Id="3991942870" Name="music">
+				<SwitchGroup Id="3991942870" Name="music" ObjectPath="\Switches\Default Work Unit\music" GUID="{6DFA80BB-8958-4EA8-A9B1-5BFF59954F32}">
 					<Switches>
-						<Switch Id="1914034948" Name="New_Switch"/>
-						<Switch Id="3952450473" Name="New_Switch_02"/>
-						<Switch Id="3952450474" Name="New_Switch_01"/>
+						<Switch Id="1914034948" Name="New_Switch" ObjectPath="\Switches\Default Work Unit\music\New_Switch" GUID="{E8FCA707-3016-4B1B-96C7-B91EFBBCDEBB}"/>
+						<Switch Id="3952450473" Name="New_Switch_02" ObjectPath="\Switches\Default Work Unit\music\New_Switch_02" GUID="{16F36EB7-B620-456D-8EEC-0C553E8D74F9}"/>
+						<Switch Id="3952450474" Name="New_Switch_01" ObjectPath="\Switches\Default Work Unit\music\New_Switch_01" GUID="{D24FBB7E-71A4-4B4D-929D-350B3A72B380}"/>
 					</Switches>
 				</SwitchGroup>
 			</SwitchGroups>
 		</SoundBank>
 	</SoundBanks>
-	<FileHash>{BF59A7B0-49F3-D16E-120C-AEC2E8EB1E54}</FileHash>
+	<FileHash>{6879CE15-0DB9-F507-2EB2-1BCF291991BB}</FileHash>
 </SoundBanksInfo>

@@ -14,6 +14,7 @@ Event	ID	Name			Wwise Object Path	Notes
 	2446068219	EnemyFire			\Default Work Unit\EnemyFire	
 	2525052962	PlayerDash			\Default Work Unit\PlayerDash	
 	3217502486	RocketExplore			\Default Work Unit\RocketExplore	
+	3227181061	music_stop			\Default Work Unit\music_stop	
 	3314129701	SwitchWeapon			\Default Work Unit\SwitchWeapon	
 	3453203440	EnemySpawn			\Default Work Unit\EnemySpawn	
 	3537581393	PlayerHurt			\Default Work Unit\PlayerHurt	

@@ -219,6 +219,20 @@
 						</Action>
 					</ChildrenList>
 				</Event>
+				<Event Name="music_stop" ID="{6CB44147-2017-40C9-8C5D-F871443C26B4}">
+					<ChildrenList>
+						<Action Name="" ID="{D3EB1891-8639-4D18-A810-B494AA6F118D}" ShortID="326948878">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="2"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="CHIP_baseloop" ID="{90A71E64-FD5F-45EE-AD18-493C85AD1357}" WorkUnitID="{4A9DA32A-C33A-41DC-9A2E-ADF390C9175C}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
 			</ChildrenList>
 		</WorkUnit>
 	</Events>
