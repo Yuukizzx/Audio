@@ -9,7 +9,7 @@
 	</RootPaths>
 	<DialogueEvents/>
 	<SoundBanks>
-		<SoundBank Id="1100754030" Type="User" Language="SFX" Hash="{DEE408BD-0DF3-CDFA-6002-12FB8F1A594E}">
+		<SoundBank Id="1100754030" Type="User" Language="SFX" Hash="{9B1C15CC-F56F-D1B2-FA20-80DFE452B55C}">
 			<ShortName>All</ShortName>
 			<Path>All.bnk</Path>
 			<Media>
@@ -106,22 +106,32 @@
 				</Event>
 				<Event Id="1619603327" Name="music_play_A" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0">
 					<ActionSetState>
-						<ActionSetStateEntry GroupId="3991942870" Id="508837862" Name="music_a"/>
+						<ActionSetStateEntry GroupId="1053978790" Id="1053978790" Name="buff_A"/>
 					</ActionSetState>
 				</Event>
 				<Event Id="1619603324" Name="music_play_B" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0">
 					<ActionSetState>
-						<ActionSetStateEntry GroupId="3991942870" Id="508837861" Name="music_b"/>
+						<ActionSetStateEntry GroupId="1053978789" Id="1053978789" Name="buff_B"/>
 					</ActionSetState>
 				</Event>
 				<Event Id="1619603325" Name="music_play_C" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0">
 					<ActionSetState>
-						<ActionSetStateEntry GroupId="3991942870" Id="508837860" Name="music_c"/>
+						<ActionSetStateEntry GroupId="1053978788" Id="1053978788" Name="buff_C"/>
 					</ActionSetState>
 				</Event>
-				<Event Id="3238402545" Name="music_play_Default" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0">
+				<Event Id="1393667809" Name="music_stop_A" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0">
 					<ActionSetState>
-						<ActionSetStateEntry GroupId="3991942870" Id="1927040848" Name="music_default"/>
+						<ActionSetStateEntry GroupId="1053978790" Id="1628630709" Name="buff_A_stop"/>
+					</ActionSetState>
+				</Event>
+				<Event Id="1393667810" Name="music_stop_B" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0">
+					<ActionSetState>
+						<ActionSetStateEntry GroupId="1053978789" Id="139899368" Name="buff_B_stop"/>
+					</ActionSetState>
+				</Event>
+				<Event Id="1393667811" Name="music_stop_C" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0">
+					<ActionSetState>
+						<ActionSetStateEntry GroupId="1053978788" Id="3870036419" Name="buff_C_stop"/>
 					</ActionSetState>
 				</Event>
 				<Event Id="2525052962" Name="PlayerDash" MaxAttenuation="20" DurationType="OneShot" DurationMin="0.28734693" DurationMax="0.28734693">
@@ -161,18 +171,30 @@
 				</Event>
 			</Events>
 			<StateGroups>
-				<StateGroup Id="3991942870" Name="music">
+				<StateGroup Id="1053978788" Name="buff_C">
 					<States>
-						<State Id="508837860" Name="music_c"/>
-						<State Id="508837861" Name="music_b"/>
-						<State Id="508837862" Name="music_a"/>
 						<State Id="748895195" Name="None"/>
-						<State Id="1927040848" Name="music_default"/>
+						<State Id="1053978788" Name="buff_C"/>
+						<State Id="3870036419" Name="buff_C_stop"/>
+					</States>
+				</StateGroup>
+				<StateGroup Id="1053978789" Name="buff_B">
+					<States>
+						<State Id="139899368" Name="buff_B_stop"/>
+						<State Id="748895195" Name="None"/>
+						<State Id="1053978789" Name="buff_B"/>
+					</States>
+				</StateGroup>
+				<StateGroup Id="1053978790" Name="buff_A">
+					<States>
+						<State Id="748895195" Name="None"/>
+						<State Id="1053978790" Name="buff_A"/>
+						<State Id="1628630709" Name="buff_A_stop"/>
 					</States>
 				</StateGroup>
 			</StateGroups>
 		</SoundBank>
-		<SoundBank Id="1355168291" Type="User" Language="SFX" Hash="{996EAC9F-F09A-784F-9D04-B98586DD5127}">
+		<SoundBank Id="1355168291" Type="User" Language="SFX" Hash="{24934670-FD3F-12EA-E297-7E0A058D0969}">
 			<ShortName>Init</ShortName>
 			<Path>Init.bnk</Path>
 			<Plugins>
@@ -188,6 +210,27 @@
 				<Bus Id="3991942870" Name="music"/>
 			</Busses>
 			<StateGroups>
+				<StateGroup Id="1053978788" Name="buff_C">
+					<States>
+						<State Id="748895195" Name="None"/>
+						<State Id="1053978788" Name="buff_C"/>
+						<State Id="3870036419" Name="buff_C_stop"/>
+					</States>
+				</StateGroup>
+				<StateGroup Id="1053978789" Name="buff_B">
+					<States>
+						<State Id="139899368" Name="buff_B_stop"/>
+						<State Id="748895195" Name="None"/>
+						<State Id="1053978789" Name="buff_B"/>
+					</States>
+				</StateGroup>
+				<StateGroup Id="1053978790" Name="buff_A">
+					<States>
+						<State Id="748895195" Name="None"/>
+						<State Id="1053978790" Name="buff_A"/>
+						<State Id="1628630709" Name="buff_A_stop"/>
+					</States>
+				</StateGroup>
 				<StateGroup Id="3991942870" Name="music">
 					<States>
 						<State Id="508837860" Name="music_c"/>
@@ -209,5 +252,5 @@
 			</SwitchGroups>
 		</SoundBank>
 	</SoundBanks>
-	<FileHash>{2CA86616-39F6-2A61-BAA0-F9BF98D0CF1A}</FileHash>
+	<FileHash>{CAEB7F02-B0E5-F1FF-5FAF-91B5067C014B}</FileHash>
 </SoundBanksInfo>

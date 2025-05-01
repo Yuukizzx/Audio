@@ -1,7 +1,19 @@
 State Group	ID	Name			Wwise Object Path	Notes
+	1053978788	buff_C			\Default Work Unit\buff_C	
+	1053978789	buff_B			\Default Work Unit\buff_B	
+	1053978790	buff_A			\Default Work Unit\buff_A	
 	3991942870	music			\Default Work Unit\music	
 
 State	ID	Name	State Group			Notes
+	748895195	None	buff_C			
+	1053978788	buff_C	buff_C			
+	3870036419	buff_C_stop	buff_C			
+	139899368	buff_B_stop	buff_B			
+	748895195	None	buff_B			
+	1053978789	buff_B	buff_B			
+	748895195	None	buff_A			
+	1053978790	buff_A	buff_A			
+	1628630709	buff_A_stop	buff_A			
 	508837860	music_c	music			
 	508837861	music_b	music			
 	508837862	music_a	music			

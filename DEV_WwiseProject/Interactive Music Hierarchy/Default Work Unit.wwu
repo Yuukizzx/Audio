@@ -152,55 +152,32 @@
 												</ObjectList>
 											</ObjectLists>
 										</MusicTrack>
-										<MusicTrack Name="buff" ID="{C9FE6DBB-AA0B-44D7-B3C8-C2D97BBAEC14}" ShortID="233570046">
+										<MusicTrack Name="buff_A" ID="{6C023118-9B23-4C5C-A3F8-8245D8196418}" ShortID="346042760">
 											<PropertyList>
 												<Property Name="MusicTrackType" Type="int16" Value="3"/>
 											</PropertyList>
 											<ReferenceList>
-												<Reference Name="Conversion">
-													<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{355BD438-6FC2-4BE5-BBDC-6CD8511393E9}"/>
-												</Reference>
 												<Reference Name="DefaultSwitchOrState">
-													<ObjectRef Name="music_default" ID="{8F4285F1-797A-4659-BE2B-4CE984D45D3D}" WorkUnitID="{AE195DDE-B556-4CF3-948A-2AF50363870D}"/>
+													<ObjectRef Name="None" ID="{3EAC3360-9A38-4784-B27A-88150BF7534F}" WorkUnitID="{AE195DDE-B556-4CF3-948A-2AF50363870D}"/>
 												</Reference>
 												<Reference Name="OutputBus">
 													<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2782176C-497F-4D3A-B26C-C6E8440C4DFD}"/>
 												</Reference>
 												<Reference Name="SwitchGroupOrStateGroup">
-													<ObjectRef Name="music" ID="{820E28F8-A286-437D-8F13-59290927B2AD}" WorkUnitID="{AE195DDE-B556-4CF3-948A-2AF50363870D}"/>
+													<ObjectRef Name="buff_A" ID="{625AC633-5278-4C5A-85D8-59C8EBC51CD7}" WorkUnitID="{AE195DDE-B556-4CF3-948A-2AF50363870D}"/>
 												</Reference>
 												<Reference Name="TransitionRoot">
 													<Custom>
-														<MusicTransition Name="Root" ID="{5F5D2948-803E-4435-AA64-7FD53FAB3C22}">
+														<MusicTransition Name="Root" ID="{65852B10-96E8-434A-B17D-CD08015F521D}">
 															<PropertyList>
 																<Property Name="IsFolder" Type="bool" Value="True"/>
 															</PropertyList>
 															<ChildrenList>
-																<MusicTransition Name="Transition" ID="{C87BF77E-AF32-4C0B-9254-4F7EA28EAE7E}">
+																<MusicTransition Name="Transition" ID="{10B9E207-68E4-445A-ADB6-81D45371C952}">
 																	<PropertyList>
-																		<Property Name="EnableDestinationFadeIn" Type="bool" Value="True"/>
-																		<Property Name="EnableSourceFadeOut" Type="bool" Value="True"/>
 																		<Property Name="ExitSourceAt" Type="int16" Value="3"/>
 																	</PropertyList>
-																	<TransitionInfo>
-																		<SourceFadeOut>
-																			<MusicFade Name="Source Fade-out" ID="{0E967B7A-2121-4B7C-BC7F-B9E5A198F3E0}">
-																				<PropertyList>
-																					<Property Name="FadeOffset" Type="Real64" Value="0.5"/>
-																					<Property Name="FadeTime" Type="Real64" Value="1"/>
-																					<Property Name="FadeType" Type="int16" Value="1"/>
-																				</PropertyList>
-																			</MusicFade>
-																		</SourceFadeOut>
-																		<DestinationFadeIn>
-																			<MusicFade Name="Destination Fade-in" ID="{000F29C5-0379-4829-8517-940FA19D2A62}">
-																				<PropertyList>
-																					<Property Name="FadeOffset" Type="Real64" Value="-0.4"/>
-																					<Property Name="FadeTime" Type="Real64" Value="1"/>
-																				</PropertyList>
-																			</MusicFade>
-																		</DestinationFadeIn>
-																	</TransitionInfo>
+																	<TransitionInfo/>
 																</MusicTransition>
 															</ChildrenList>
 															<TransitionInfo/>
@@ -209,13 +186,6 @@
 												</Reference>
 											</ReferenceList>
 											<ChildrenList>
-												<AudioFileSource Name="CHIP1_B" ID="{48934BA2-C796-4193-8CCB-870AE3A2F8F1}">
-													<Language>SFX</Language>
-													<AudioFile>CHIP1_B.wav</AudioFile>
-													<MediaIDList>
-														<MediaID ID="572995785"/>
-													</MediaIDList>
-												</AudioFileSource>
 												<AudioFileSource Name="CHIP1_A" ID="{534E8FE9-B811-4599-8E7E-5F2C7E681CDA}">
 													<Language>SFX</Language>
 													<AudioFile>CHIP1_A.wav</AudioFile>
@@ -223,19 +193,12 @@
 														<MediaID ID="869757563"/>
 													</MediaIDList>
 												</AudioFileSource>
-												<AudioFileSource Name="CHIP1_C3" ID="{FFF05376-0621-49A8-9347-26644F3A3D54}">
-													<Language>SFX</Language>
-													<AudioFile>CHIP1_C3.wav</AudioFile>
-													<MediaIDList>
-														<MediaID ID="402274307"/>
-													</MediaIDList>
-												</AudioFileSource>
 											</ChildrenList>
 											<ObjectLists>
 												<ObjectList Name="Sequences">
 													<Reference>
 														<Local>
-															<MusicTrackSequence Name="" ID="{BCD65071-9945-4C24-8F51-438311728FC0}">
+															<MusicTrackSequence Name="" ID="{6D6C7DC4-F289-4DB3-B097-C9ED22F6E5D8}">
 																<ObjectLists>
 																	<ObjectList Name="Clips">
 																		<Reference>
@@ -313,7 +276,7 @@
 																</ObjectLists>
 																<ReferenceList>
 																	<Reference Name="TrackSequenceSwitch">
-																		<ObjectRef Name="music_a" ID="{51D75837-2F94-41C0-92F7-22CE7E2AA34B}" WorkUnitID="{AE195DDE-B556-4CF3-948A-2AF50363870D}"/>
+																		<ObjectRef Name="buff_A" ID="{C9FA8221-B497-4999-BB4C-623FE3D8C90D}" WorkUnitID="{AE195DDE-B556-4CF3-948A-2AF50363870D}"/>
 																	</Reference>
 																</ReferenceList>
 															</MusicTrackSequence>
@@ -321,7 +284,65 @@
 													</Reference>
 													<Reference>
 														<Local>
-															<MusicTrackSequence Name="" ID="{F78ACC3F-2FC1-44CC-A5B7-38E0F0EBC3E7}">
+															<MusicTrackSequence Name="" ID="{DA58EA37-5E6E-4089-A357-B595974A85A0}">
+																<ReferenceList>
+																	<Reference Name="TrackSequenceSwitch">
+																		<ObjectRef Name="buff_A_stop" ID="{8C5DAA90-EDC7-4BC5-A6D3-A325EBF5F2B3}" WorkUnitID="{AE195DDE-B556-4CF3-948A-2AF50363870D}"/>
+																	</Reference>
+																</ReferenceList>
+															</MusicTrackSequence>
+														</Local>
+													</Reference>
+												</ObjectList>
+											</ObjectLists>
+										</MusicTrack>
+										<MusicTrack Name="buff_B" ID="{CD6B4CB7-8847-4EDA-A023-D216B1930EF8}" ShortID="626690238">
+											<PropertyList>
+												<Property Name="MusicTrackType" Type="int16" Value="3"/>
+											</PropertyList>
+											<ReferenceList>
+												<Reference Name="DefaultSwitchOrState">
+													<ObjectRef Name="None" ID="{B41B44D5-F1FF-400E-B38D-48A6D219E236}" WorkUnitID="{AE195DDE-B556-4CF3-948A-2AF50363870D}"/>
+												</Reference>
+												<Reference Name="OutputBus">
+													<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2782176C-497F-4D3A-B26C-C6E8440C4DFD}"/>
+												</Reference>
+												<Reference Name="SwitchGroupOrStateGroup">
+													<ObjectRef Name="buff_B" ID="{0D452FC5-CB9A-4BEC-9D2A-D93FF0603E96}" WorkUnitID="{AE195DDE-B556-4CF3-948A-2AF50363870D}"/>
+												</Reference>
+												<Reference Name="TransitionRoot">
+													<Custom>
+														<MusicTransition Name="Root" ID="{5B042895-CE20-443E-B097-1A37C16A9529}">
+															<PropertyList>
+																<Property Name="IsFolder" Type="bool" Value="True"/>
+															</PropertyList>
+															<ChildrenList>
+																<MusicTransition Name="Transition" ID="{D15B4820-52DF-4299-B0EF-61D8EA8AC74C}">
+																	<PropertyList>
+																		<Property Name="ExitSourceAt" Type="int16" Value="3"/>
+																	</PropertyList>
+																	<TransitionInfo/>
+																</MusicTransition>
+															</ChildrenList>
+															<TransitionInfo/>
+														</MusicTransition>
+													</Custom>
+												</Reference>
+											</ReferenceList>
+											<ChildrenList>
+												<AudioFileSource Name="CHIP1_B" ID="{48934BA2-C796-4193-8CCB-870AE3A2F8F1}">
+													<Language>SFX</Language>
+													<AudioFile>CHIP1_B.wav</AudioFile>
+													<MediaIDList>
+														<MediaID ID="572995785"/>
+													</MediaIDList>
+												</AudioFileSource>
+											</ChildrenList>
+											<ObjectLists>
+												<ObjectList Name="Sequences">
+													<Reference>
+														<Local>
+															<MusicTrackSequence Name="" ID="{E97A04FB-F3BA-470F-AF67-4512C967B696}">
 																<ObjectLists>
 																	<ObjectList Name="Clips">
 																		<Reference>
@@ -399,7 +420,7 @@
 																</ObjectLists>
 																<ReferenceList>
 																	<Reference Name="TrackSequenceSwitch">
-																		<ObjectRef Name="music_b" ID="{247BEF1D-1B6F-49FB-9410-8AC6CEA6C96B}" WorkUnitID="{AE195DDE-B556-4CF3-948A-2AF50363870D}"/>
+																		<ObjectRef Name="buff_B" ID="{9A1DDD4E-7A05-44FD-893A-4E05E745C590}" WorkUnitID="{AE195DDE-B556-4CF3-948A-2AF50363870D}"/>
 																	</Reference>
 																</ReferenceList>
 															</MusicTrackSequence>
@@ -407,7 +428,65 @@
 													</Reference>
 													<Reference>
 														<Local>
-															<MusicTrackSequence Name="" ID="{9D28DE14-7626-4FCF-BCCD-D52DD8BBF723}">
+															<MusicTrackSequence Name="" ID="{BDD0CA0B-6C53-49F9-A1A2-90564F3E0AA9}">
+																<ReferenceList>
+																	<Reference Name="TrackSequenceSwitch">
+																		<ObjectRef Name="buff_B_stop" ID="{3CB82F8E-7BF2-4E9F-8A2F-50C10BEB6A00}" WorkUnitID="{AE195DDE-B556-4CF3-948A-2AF50363870D}"/>
+																	</Reference>
+																</ReferenceList>
+															</MusicTrackSequence>
+														</Local>
+													</Reference>
+												</ObjectList>
+											</ObjectLists>
+										</MusicTrack>
+										<MusicTrack Name="buff_C" ID="{2A6BEF5C-F590-4B83-BC65-C131E185CA71}" ShortID="382956254">
+											<PropertyList>
+												<Property Name="MusicTrackType" Type="int16" Value="3"/>
+											</PropertyList>
+											<ReferenceList>
+												<Reference Name="DefaultSwitchOrState">
+													<ObjectRef Name="None" ID="{D9B60D0E-0473-446E-88E9-84CE92E8DFC6}" WorkUnitID="{AE195DDE-B556-4CF3-948A-2AF50363870D}"/>
+												</Reference>
+												<Reference Name="OutputBus">
+													<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2782176C-497F-4D3A-B26C-C6E8440C4DFD}"/>
+												</Reference>
+												<Reference Name="SwitchGroupOrStateGroup">
+													<ObjectRef Name="buff_C" ID="{7441F954-D3CB-42B0-906E-D99D077B3DF2}" WorkUnitID="{AE195DDE-B556-4CF3-948A-2AF50363870D}"/>
+												</Reference>
+												<Reference Name="TransitionRoot">
+													<Custom>
+														<MusicTransition Name="Root" ID="{03A9845B-7B83-4D3C-BD48-BFD478E8C666}">
+															<PropertyList>
+																<Property Name="IsFolder" Type="bool" Value="True"/>
+															</PropertyList>
+															<ChildrenList>
+																<MusicTransition Name="Transition" ID="{CE24F257-DD97-46A4-8ABC-4703F682E78A}">
+																	<PropertyList>
+																		<Property Name="ExitSourceAt" Type="int16" Value="3"/>
+																	</PropertyList>
+																	<TransitionInfo/>
+																</MusicTransition>
+															</ChildrenList>
+															<TransitionInfo/>
+														</MusicTransition>
+													</Custom>
+												</Reference>
+											</ReferenceList>
+											<ChildrenList>
+												<AudioFileSource Name="CHIP1_C3" ID="{FFF05376-0621-49A8-9347-26644F3A3D54}">
+													<Language>SFX</Language>
+													<AudioFile>CHIP1_C3.wav</AudioFile>
+													<MediaIDList>
+														<MediaID ID="402274307"/>
+													</MediaIDList>
+												</AudioFileSource>
+											</ChildrenList>
+											<ObjectLists>
+												<ObjectList Name="Sequences">
+													<Reference>
+														<Local>
+															<MusicTrackSequence Name="" ID="{759573FD-2B36-4001-9304-58C996DF9988}">
 																<ObjectLists>
 																	<ObjectList Name="Clips">
 																		<Reference>
@@ -485,7 +564,7 @@
 																</ObjectLists>
 																<ReferenceList>
 																	<Reference Name="TrackSequenceSwitch">
-																		<ObjectRef Name="music_c" ID="{DA5B2B42-52CA-4D5F-BD08-D4CE58F374A0}" WorkUnitID="{AE195DDE-B556-4CF3-948A-2AF50363870D}"/>
+																		<ObjectRef Name="buff_C" ID="{6F3C5EF2-F015-4022-82DE-AA834CBD53A2}" WorkUnitID="{AE195DDE-B556-4CF3-948A-2AF50363870D}"/>
 																	</Reference>
 																</ReferenceList>
 															</MusicTrackSequence>
@@ -493,10 +572,10 @@
 													</Reference>
 													<Reference>
 														<Local>
-															<MusicTrackSequence Name="" ID="{8EDB0456-EACA-42E8-9DCA-4013ED816D23}">
+															<MusicTrackSequence Name="" ID="{8E1204CB-2B2D-4DAB-BEA3-213EF6603D19}">
 																<ReferenceList>
 																	<Reference Name="TrackSequenceSwitch">
-																		<ObjectRef Name="music_default" ID="{8F4285F1-797A-4659-BE2B-4CE984D45D3D}" WorkUnitID="{AE195DDE-B556-4CF3-948A-2AF50363870D}"/>
+																		<ObjectRef Name="buff_C_stop" ID="{E2FE1734-E52D-4587-A7E3-D895FE5FFAC3}" WorkUnitID="{AE195DDE-B556-4CF3-948A-2AF50363870D}"/>
 																	</Reference>
 																</ReferenceList>
 															</MusicTrackSequence>

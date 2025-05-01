@@ -12,6 +12,27 @@
 						<State Name="music_default" ID="{8F4285F1-797A-4659-BE2B-4CE984D45D3D}"/>
 					</ChildrenList>
 				</StateGroup>
+				<StateGroup Name="buff_A" ID="{625AC633-5278-4C5A-85D8-59C8EBC51CD7}">
+					<ChildrenList>
+						<State Name="None" ID="{3EAC3360-9A38-4784-B27A-88150BF7534F}"/>
+						<State Name="buff_A" ID="{C9FA8221-B497-4999-BB4C-623FE3D8C90D}"/>
+						<State Name="buff_A_stop" ID="{8C5DAA90-EDC7-4BC5-A6D3-A325EBF5F2B3}"/>
+					</ChildrenList>
+				</StateGroup>
+				<StateGroup Name="buff_B" ID="{0D452FC5-CB9A-4BEC-9D2A-D93FF0603E96}">
+					<ChildrenList>
+						<State Name="None" ID="{B41B44D5-F1FF-400E-B38D-48A6D219E236}"/>
+						<State Name="buff_B" ID="{9A1DDD4E-7A05-44FD-893A-4E05E745C590}"/>
+						<State Name="buff_B_stop" ID="{3CB82F8E-7BF2-4E9F-8A2F-50C10BEB6A00}"/>
+					</ChildrenList>
+				</StateGroup>
+				<StateGroup Name="buff_C" ID="{7441F954-D3CB-42B0-906E-D99D077B3DF2}">
+					<ChildrenList>
+						<State Name="None" ID="{D9B60D0E-0473-446E-88E9-84CE92E8DFC6}"/>
+						<State Name="buff_C" ID="{6F3C5EF2-F015-4022-82DE-AA834CBD53A2}"/>
+						<State Name="buff_C_stop" ID="{E2FE1734-E52D-4587-A7E3-D895FE5FFAC3}"/>
+					</ChildrenList>
+				</StateGroup>
 			</ChildrenList>
 		</WorkUnit>
 	</States>

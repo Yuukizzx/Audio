@@ -3,6 +3,9 @@ Event	ID	Name			Wwise Object Path	Notes
 	208556064	EnemyHurt			\Default Work Unit\EnemyHurt	
 	794424115	EnemyDie			\Default Work Unit\EnemyDie	
 	1112365134	RocketShoot			\Default Work Unit\RocketShoot	
+	1393667809	music_stop_A			\Default Work Unit\music_stop_A	
+	1393667810	music_stop_B			\Default Work Unit\music_stop_B	
+	1393667811	music_stop_C			\Default Work Unit\music_stop_C	
 	1619603324	music_play_B			\Default Work Unit\music_play_B	
 	1619603325	music_play_C			\Default Work Unit\music_play_C	
 	1619603327	music_play_A			\Default Work Unit\music_play_A	
@@ -11,7 +14,6 @@ Event	ID	Name			Wwise Object Path	Notes
 	2446068219	EnemyFire			\Default Work Unit\EnemyFire	
 	2525052962	PlayerDash			\Default Work Unit\PlayerDash	
 	3217502486	RocketExplore			\Default Work Unit\RocketExplore	
-	3238402545	music_play_Default			\Default Work Unit\music_play_Default	
 	3314129701	SwitchWeapon			\Default Work Unit\SwitchWeapon	
 	3453203440	EnemySpawn			\Default Work Unit\EnemySpawn	
 	3537581393	PlayerHurt			\Default Work Unit\PlayerHurt	
@@ -23,11 +25,11 @@ In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
 	116182204	RocketShoot	F:\Unity Projects\zzx\Audio\DEV_WwiseProject\.cache\Mac\SFX\RocketShoot_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\char\shoot\RocketShoot		101472
 	157789356	RocketExplore	F:\Unity Projects\zzx\Audio\DEV_WwiseProject\.cache\Mac\SFX\RocketExplore_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\char\shoot\RocketExplore		73824
 	246000459	EnemySpawn	F:\Unity Projects\zzx\Audio\DEV_WwiseProject\.cache\Mac\SFX\EnemySpawn_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\enemy\EnemySpawn		101472
-	402274307	buff	F:\Unity Projects\zzx\Audio\DEV_WwiseProject\.cache\Mac\SFX\CHIP1_C3_FBC78EF0.wem		\Interactive Music Hierarchy\Default Work Unit\music\CHIP_baseloop\CHIP_baseloop\buff		2258064
+	402274307	buff_C	F:\Unity Projects\zzx\Audio\DEV_WwiseProject\.cache\Mac\SFX\CHIP1_C3_FBC78EF0.wem		\Interactive Music Hierarchy\Default Work Unit\music\CHIP_baseloop\CHIP_baseloop\buff_C		2258064
 	444441078	EnemyHurt	F:\Unity Projects\zzx\Audio\DEV_WwiseProject\.cache\Mac\SFX\EnemyHurt_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\enemy\EnemyHurt		32352
-	572995785	buff	F:\Unity Projects\zzx\Audio\DEV_WwiseProject\.cache\Mac\SFX\CHIP1_B_FBC78EF0.wem		\Interactive Music Hierarchy\Default Work Unit\music\CHIP_baseloop\CHIP_baseloop\buff		2258064
+	572995785	buff_B	F:\Unity Projects\zzx\Audio\DEV_WwiseProject\.cache\Mac\SFX\CHIP1_B_FBC78EF0.wem		\Interactive Music Hierarchy\Default Work Unit\music\CHIP_baseloop\CHIP_baseloop\buff_B		2258064
 	580627807	SniperShoot	F:\Unity Projects\zzx\Audio\DEV_WwiseProject\.cache\Mac\SFX\SniperShoot_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\char\shoot\SniperShoot		152160
-	869757563	buff	F:\Unity Projects\zzx\Audio\DEV_WwiseProject\.cache\Mac\SFX\CHIP1_A_FBC78EF0.wem		\Interactive Music Hierarchy\Default Work Unit\music\CHIP_baseloop\CHIP_baseloop\buff		2258064
+	869757563	buff_A	F:\Unity Projects\zzx\Audio\DEV_WwiseProject\.cache\Mac\SFX\CHIP1_A_FBC78EF0.wem		\Interactive Music Hierarchy\Default Work Unit\music\CHIP_baseloop\CHIP_baseloop\buff_A		2258064
 	918081918	PlayerDash	F:\Unity Projects\zzx\Audio\DEV_WwiseProject\.cache\Mac\SFX\PlayerDash_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\char\action\PlayerDash		50784
 	918775500	EnemyFire	F:\Unity Projects\zzx\Audio\DEV_WwiseProject\.cache\Mac\SFX\EnemyFire_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\enemy\EnemyFire		78432
 	987720602	SwitchWeapon	F:\Unity Projects\zzx\Audio\DEV_WwiseProject\.cache\Mac\SFX\SwitchWeapon_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\char\action\SwitchWeapon		78432

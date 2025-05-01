@@ -137,13 +137,13 @@
 				</Event>
 				<Event Name="music_play_A" ID="{7E70F52E-06F9-4D9C-B93E-698A7DE93F34}">
 					<ChildrenList>
-						<Action Name="" ID="{BA044C11-835E-4F3C-8014-C3BFA2914545}" ShortID="342716625">
+						<Action Name="" ID="{A9E5CA1B-7B40-45EC-9DC4-842210434E18}" ShortID="293423365">
 							<PropertyList>
 								<Property Name="ActionType" Type="int16" Value="22"/>
 							</PropertyList>
 							<ReferenceList>
 								<Reference Name="Target">
-									<ObjectRef Name="music_a" ID="{51D75837-2F94-41C0-92F7-22CE7E2AA34B}" WorkUnitID="{AE195DDE-B556-4CF3-948A-2AF50363870D}"/>
+									<ObjectRef Name="buff_A" ID="{C9FA8221-B497-4999-BB4C-623FE3D8C90D}" WorkUnitID="{AE195DDE-B556-4CF3-948A-2AF50363870D}"/>
 								</Reference>
 							</ReferenceList>
 						</Action>
@@ -151,13 +151,13 @@
 				</Event>
 				<Event Name="music_play_B" ID="{AA62D392-FDBB-4D37-9B9D-A288ACC66057}">
 					<ChildrenList>
-						<Action Name="" ID="{6ACFA58F-8369-4661-8C16-B6B462A33C89}" ShortID="1003426874">
+						<Action Name="" ID="{4CA89E58-4B68-4411-B289-11D310A42291}" ShortID="310615928">
 							<PropertyList>
 								<Property Name="ActionType" Type="int16" Value="22"/>
 							</PropertyList>
 							<ReferenceList>
 								<Reference Name="Target">
-									<ObjectRef Name="music_b" ID="{247BEF1D-1B6F-49FB-9410-8AC6CEA6C96B}" WorkUnitID="{AE195DDE-B556-4CF3-948A-2AF50363870D}"/>
+									<ObjectRef Name="buff_B" ID="{9A1DDD4E-7A05-44FD-893A-4E05E745C590}" WorkUnitID="{AE195DDE-B556-4CF3-948A-2AF50363870D}"/>
 								</Reference>
 							</ReferenceList>
 						</Action>
@@ -165,27 +165,55 @@
 				</Event>
 				<Event Name="music_play_C" ID="{3C196C1D-C7CA-47A4-B284-475AC58147BB}">
 					<ChildrenList>
-						<Action Name="" ID="{E9A75CBE-7B6F-45FB-90A0-A050CA21DEB7}" ShortID="1053115324">
+						<Action Name="" ID="{45F9E806-2E42-4C6B-B27E-D370766F428A}" ShortID="335616800">
 							<PropertyList>
 								<Property Name="ActionType" Type="int16" Value="22"/>
 							</PropertyList>
 							<ReferenceList>
 								<Reference Name="Target">
-									<ObjectRef Name="music_c" ID="{DA5B2B42-52CA-4D5F-BD08-D4CE58F374A0}" WorkUnitID="{AE195DDE-B556-4CF3-948A-2AF50363870D}"/>
+									<ObjectRef Name="buff_C" ID="{6F3C5EF2-F015-4022-82DE-AA834CBD53A2}" WorkUnitID="{AE195DDE-B556-4CF3-948A-2AF50363870D}"/>
 								</Reference>
 							</ReferenceList>
 						</Action>
 					</ChildrenList>
 				</Event>
-				<Event Name="music_play_Default" ID="{946AC808-503D-4888-BBC6-D10049F9BC30}">
+				<Event Name="music_stop_A" ID="{4B396006-5FAE-470B-B3C2-E65E40AF4801}">
 					<ChildrenList>
-						<Action Name="" ID="{AD9A7602-29EF-49E0-9B5F-B65468659AAF}" ShortID="263597264">
+						<Action Name="" ID="{36FEF849-DD68-438D-B89F-8CD717560907}" ShortID="813695763">
 							<PropertyList>
 								<Property Name="ActionType" Type="int16" Value="22"/>
 							</PropertyList>
 							<ReferenceList>
 								<Reference Name="Target">
-									<ObjectRef Name="music_default" ID="{8F4285F1-797A-4659-BE2B-4CE984D45D3D}" WorkUnitID="{AE195DDE-B556-4CF3-948A-2AF50363870D}"/>
+									<ObjectRef Name="buff_A_stop" ID="{8C5DAA90-EDC7-4BC5-A6D3-A325EBF5F2B3}" WorkUnitID="{AE195DDE-B556-4CF3-948A-2AF50363870D}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="music_stop_B" ID="{5879E4AA-AAF2-4AA5-BFDE-5CF6DDB55C15}">
+					<ChildrenList>
+						<Action Name="" ID="{E907C771-023B-42C3-9AF5-0A2C9027D7E8}" ShortID="1039889781">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="22"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="buff_B_stop" ID="{3CB82F8E-7BF2-4E9F-8A2F-50C10BEB6A00}" WorkUnitID="{AE195DDE-B556-4CF3-948A-2AF50363870D}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="music_stop_C" ID="{3409A410-DF1C-4A66-A6BC-6F1106391F08}">
+					<ChildrenList>
+						<Action Name="" ID="{FF256B4B-52BA-4635-B043-56C87B33F77A}" ShortID="759516211">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="22"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="buff_C_stop" ID="{E2FE1734-E52D-4587-A7E3-D895FE5FFAC3}" WorkUnitID="{AE195DDE-B556-4CF3-948A-2AF50363870D}"/>
 								</Reference>
 							</ReferenceList>
 						</Action>
